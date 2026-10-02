@@ -64,7 +64,7 @@ Encaja con el territorio ya instalado en octubre ("See it. Make it yours. Live i
 | "Si inviertes, te reembolsamos el vuelo.*" | "Vuelo gratis", "fly free", "on us" aplicado al vuelo |
 | "Traslado, hospedaje y experiencia wellness por nuestra cuenta" | "Todo incluido" |
 | "Hasta 2 noches" · "dos personas" | "2 noches" a secas, "una pareja" |
-| "Selva Zamá" (así, con acento, en todas las piezas) | SelvaZama / Selva Zama / Selvazamá (en octubre aparecen las tres) |
+| "Selvazamá" (una sola palabra, con acento, en todas las piezas) | "Selva Zamá", "Selva Zama", "SelvaZama", "Selvazama" (en octubre y en la web aparecen varias de estas) |
 | "A limited collection of 15 private villas" (posicionamiento). Urgencia: "Only a select number of residences remain" | "15 villas disponibles", "Last 3 villas remain from Phase 1" (sin validar) |
 | "10-year financing available", "Flexible financing options available" o "30% down. 20% at delivery. 1 year interest-free on the balance." | "30-year financing" (sin cupo hoy) |
 | 3 recámaras "from $780K USD"; 4 recámaras "from $833K USD" | "$787K" (desactualizado) |
@@ -107,24 +107,24 @@ Audio: ambiente + música suave, sin locución. Subtítulos grabados. Mantener t
 > Fly & Buy at Cardinal. We pick you up at the airport, host you for up to 2 nights in a Cardinal villa and include a wellness experience. Transfer, stay and wellness are on us.
 > Invest, and we reimburse your flight.*
 >
-> Tour the available villas in Selva Zamá, the most exclusive neighborhood of Tulum. Built, ready for your finishes, move-in within 90 days. 3-bedroom villas from $780K USD; 4-bedroom from $833K USD.
+> Tour the available villas in Selvazamá, the most exclusive neighborhood of Tulum. Built, ready for your finishes, move-in within 90 days. 3-bedroom villas from $780K USD; 4-bedroom from $833K USD.
 >
 > *Flights and stay limited to two guests. Terms apply.
 
 - Titular: Wake up at Cardinal before you decide.
-- Descripción: Selva Zamá, the most exclusive neighborhood of Tulum
+- Descripción: Selvazamá, the most exclusive neighborhood of Tulum
 - Botón: Learn more
 
 **ES**
 > Fly & Buy en Cardinal. Te recogemos en el aeropuerto, te hospedamos hasta 2 noches en una villa de Cardinal y te regalamos una experiencia wellness. Traslado, hospedaje y wellness corren por nuestra cuenta.
 > Si inviertes, te reembolsamos el vuelo.*
 >
-> Recorre las villas disponibles en Selva Zamá, el barrio más exclusivo de Tulum. Construidas, listas para tus acabados y para vivirlas en 90 días. Villas de 3 recámaras desde $780K USD; de 4 recámaras desde $833K USD.
+> Recorre las villas disponibles en Selvazamá, el barrio más exclusivo de Tulum. Construidas, listas para tus acabados y para vivirlas en 90 días. Villas de 3 recámaras desde $780K USD; de 4 recámaras desde $833K USD.
 >
 > *Vuelos y hospedaje limitados a dos personas. Aplican términos y condiciones.
 
 - Titular: Despierta en Cardinal antes de decidir.
-- Descripción: Selva Zamá, el barrio más exclusivo de Tulum
+- Descripción: Selvazamá, el barrio más exclusivo de Tulum
 - Botón: Más información
 
 *(Cambio respecto al doc: quité "todo por nuestra cuenta", que en la misma frase del vuelo podía leerse como vuelo gratis.)*
@@ -183,7 +183,7 @@ País de residencia · fechas tentativas de viaje · nº de viajeros · villa de
 - La regla del equipo: cerrar con bloque comercial (precio, enganche o promo) y poner el link de destino.
 
 ### Propuesta
-**Noviembre = newsletter dedicado a Fly & Buy**, con la estructura visual de septiembre (hero, bloques imagen+texto, financiamiento, "Why Selva Zamá", cierre con precio y CTA) pero **~150 palabras** en total. El contenido de certeza/personalización del borrador actual se conserva y pasa a diciembre o a un segundo envío; si solo hay un envío en noviembre, comprimirlo a una franja de 4 íconos al final.
+**Noviembre = newsletter dedicado a Fly & Buy**, con la estructura visual de septiembre (hero, bloques imagen+texto, financiamiento, "Why Selvazamá", cierre con precio y CTA) pero **~150 palabras** en total. El contenido de certeza/personalización del borrador actual se conserva y pasa a diciembre o a un segundo envío; si solo hay un envío en noviembre, comprimirlo a una franja de 4 íconos al final.
 
 **Asunto EN:** Come see it. Stay in it. Make it yours.
 **Asunto ES:** Ven a verla. Vive en ella. Hazla tuya.
@@ -238,7 +238,7 @@ Nada de Fly & Buy del 21 dic al 19 ene (pausa por temporada alta); el nurturing 
 ### Noviembre · Feed (copy en el estilo de octubre: inglés, cierre imperativo)
 **Texto en imagen:** *Your first night at Cardinal.*
 **Caption EN:**
-> Light through the jungle, a private plunge pool, the quiet of Selva Zamá, the most exclusive neighborhood of Tulum.
+> Light through the jungle, a private plunge pool, the quiet of Selvazamá, the most exclusive neighborhood of Tulum.
 >
 > Fly & Buy: stay with us for up to 2 nights, with airport pickup and a wellness experience, before you choose your villa. Invest, and we reimburse your flight.*
 >
@@ -249,7 +249,7 @@ Nada de Fly & Buy del 21 dic al 19 ene (pausa por temporada alta); el nurturing 
 > *Flights and stay limited to two guests. Terms apply.
 
 **Caption ES:**
-> Luz entre la selva, una plunge pool privada y la calma de Selva Zamá, el barrio más exclusivo de Tulum.
+> Luz entre la selva, una plunge pool privada y la calma de Selvazamá, el barrio más exclusivo de Tulum.
 >
 > Fly & Buy: hospédate con nosotros hasta 2 noches, con traslado desde el aeropuerto y una experiencia wellness, antes de elegir tu villa. Si inviertes, te reembolsamos el vuelo.*
 >
