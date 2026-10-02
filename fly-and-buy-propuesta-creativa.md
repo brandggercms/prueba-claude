@@ -10,7 +10,7 @@ Base: Estrategia comercial H2 2026, propuesta de campaña Fly & Buy, calendario 
 ## 0. Qué encontré que cambia el trabajo (leer primero)
 
 1. **Condiciones del reembolso sin definir** (monto mínimo de inversión, plazo para invertir tras la visita, tope). Mientras no existan, ningún copy puede decir "vuelo completo" (el doc de campaña dice "boleto completo" en "Bono final"). Propongo usar solo "reembolsamos tu vuelo" + asterisco con "dos personas, aplican términos". Es el bloqueador nº 1 para subir anuncios.
-2. **Precio y disponibilidad inconsistentes entre piezas.** Newsletter de agosto: "desde $787K"; septiembre/octubre/noviembre: "desde $780K". Anuncios de octubre: "Last 3 villas remain from Phase 1"; newsletters y stories: "15 villas". Anuncios de octubre: "30-year financing"; newsletter: "30% inicial, 20% entrega, saldo sin interés 1 año". Hay que fijar **un** número de villas, **un** precio y **una** línea de financiamiento antes del 1 nov, o Fly & Buy convive con mensajes contradictorios.
+2. **Precio, disponibilidad y financiamiento: versión unificada (resuelto, ver sección 2).** Se corrigieron las inconsistencias detectadas: el "$787K" de agosto está desactualizado, "15 villas" es el tamaño de la colección y no inventario, "Last 3 villas remain from Phase 1" sale de los anuncios hasta que Michelle valide la cifra, y "30-year financing" sale porque el fondo de México a 30 años agotó su primer bloque.
 3. **El newsletter de noviembre ya está escrito** (hoja "Noviembre") con el mensaje general "No compres una promesa". No menciona Fly & Buy. Propuesta en sección 6.
 4. **El newsletter de diciembre está vacío** y es el último envío antes de la pausa del 21 dic.
 5. **Posible restricción de Meta/Google para inmobiliario en EE. UU. y Canadá** (categoría especial "Housing"). Si aplica, la segmentación 35–65 años y los lookalikes de la estrategia no se pueden usar tal cual en esos países. Detalle en sección 9. Hay que verificarlo en Business Manager antes de configurar, no al subir.
@@ -26,7 +26,7 @@ Base: Estrategia comercial H2 2026, propuesta de campaña Fly & Buy, calendario 
 | 2 | Fecha de cierre de la promo (hoy: abierta desde 20 ene) | Cliente | 7 oct | Mensaje de urgencia en ola 2 |
 | 3 | Presupuesto total de pauta | Cliente | 9 oct | Reparto 25/35/40 y por audiencia |
 | 4 | Landing nueva en cardinaltulum.com o solo formulario instantáneo | Cliente + web | 7 oct | Los anuncios de carrusel (tráfico) y Google Search necesitan destino. **Recomiendo landing** (sección 8) |
-| 5 | Precio, nº de villas y financiamiento vigentes | Cliente | 7 oct | Consistencia entre piezas |
+| 5 | ~~Precio, nº de villas y financiamiento~~ **Resuelto** (sección 2). Pendiente solo: Michelle valida cuántas villas hay realmente disponibles | Michelle | 7 oct | Poder usar un número de inventario en urgencia (hoy: "Only a select number of residences remain") |
 | 6 | Capacidad real: visitas por semana, traslados por día, quién atiende | Operaciones / ventas | 12 oct | Si la pauta llena más visitas de las que se pueden atender, la promo daña la experiencia |
 | 7 | Qué incluye la "experiencia wellness" (se decidió comunicarla en genérico; ¿hay una sesión fija?) | Cliente | 12 oct | Guion del reel y diciembre |
 | 8 | ¿Se puede grabar o hay material de llegada al aeropuerto/entrada, y despertar en una villa con plunge pool? | Cliente / producción | 9 oct | Reel y tarjeta 2 del carrusel (ver sección 3) |
@@ -36,6 +36,16 @@ Base: Estrategia comercial H2 2026, propuesta de campaña Fly & Buy, calendario 
 ---
 
 ## 2. Un solo mensaje para todas las áreas
+
+### Datos oficiales (fuente única para todas las piezas)
+| Tema | Se comunica así | Sale / no se usa |
+|---|---|---|
+| Precio 3 recámaras | from $780K USD | "$787K" (newsletter de agosto, desactualizado: corregir) |
+| Precio 4 recámaras | from $833K USD, en piezas que hablen de 4 recámaras | — |
+| Colección | "A limited collection of 15 private villas" (posicionamiento) | "15 villas" como inventario disponible |
+| Urgencia | "Only a select number of residences remain" (CTA aprobada) | "Last 3 villas remain from Phase 1" hasta que Michelle valide la cifra |
+| Financiamiento | 10 años con HIR · Plan directo del desarrollador: 30 % enganche, 20 % a la entrega, saldo a 1 año sin intereses | "30-year financing": el fondo de México a 30 años agotó su primer bloque y no tiene cupo |
+| Copy de financiamiento (a elegir) | "Flexible financing options available" · "10-year financing available" · "30% down. 20% at delivery. 1 year interest-free on the balance." | — |
 
 ### Línea de campaña
 - EN: **Come see it. Stay in it. Make it yours.**
@@ -55,6 +65,9 @@ Encaja con el territorio ya instalado en octubre ("See it. Make it yours. Live i
 | "Traslado, hospedaje y experiencia wellness por nuestra cuenta" | "Todo incluido" |
 | "Hasta 2 noches" · "dos personas" | "2 noches" a secas, "una pareja" |
 | "Selva Zamá" (así, con acento, en todas las piezas) | SelvaZama / Selva Zama / Selvazamá (en octubre aparecen las tres) |
+| "A limited collection of 15 private villas" (posicionamiento). Urgencia: "Only a select number of residences remain" | "15 villas disponibles", "Last 3 villas remain from Phase 1" (sin validar) |
+| "10-year financing available", "Flexible financing options available" o "30% down. 20% at delivery. 1 year interest-free on the balance." | "30-year financing" (sin cupo hoy) |
+| 3 recámaras "from $780K USD"; 4 recámaras "from $833K USD" | "$787K" (desactualizado) |
 | Frases cortas, afirmativas, sin signos de exclamación | "¡Va por nuestra cuenta!", "¡te reembolsamos tu boleto completo!" (el doc las usa; se aparta del tono de Cardinal) |
 | "Tú" consistente: "Duerme en la villa que podría ser tuya" | Mezcla de "usted"/"tú" |
 
@@ -94,7 +107,7 @@ Audio: ambiente + música suave, sin locución. Subtítulos grabados. Mantener t
 > Fly & Buy at Cardinal. We pick you up at the airport, host you for up to 2 nights in a Cardinal villa and include a wellness experience. Transfer, stay and wellness are on us.
 > Invest, and we reimburse your flight.*
 >
-> Tour the available villas in Selva Zamá, the most exclusive neighborhood of Tulum. Built, ready for your finishes, move-in within 90 days. From $780K USD.
+> Tour the available villas in Selva Zamá, the most exclusive neighborhood of Tulum. Built, ready for your finishes, move-in within 90 days. 3-bedroom villas from $780K USD; 4-bedroom from $833K USD.
 >
 > *Flights and stay limited to two guests. Terms apply.
 
@@ -106,7 +119,7 @@ Audio: ambiente + música suave, sin locución. Subtítulos grabados. Mantener t
 > Fly & Buy en Cardinal. Te recogemos en el aeropuerto, te hospedamos hasta 2 noches en una villa de Cardinal y te regalamos una experiencia wellness. Traslado, hospedaje y wellness corren por nuestra cuenta.
 > Si inviertes, te reembolsamos el vuelo.*
 >
-> Recorre las villas disponibles en Selva Zamá, el barrio más exclusivo de Tulum. Construidas, listas para tus acabados y para vivirlas en 90 días. Desde $780K USD.
+> Recorre las villas disponibles en Selva Zamá, el barrio más exclusivo de Tulum. Construidas, listas para tus acabados y para vivirlas en 90 días. Villas de 3 recámaras desde $780K USD; de 4 recámaras desde $833K USD.
 >
 > *Vuelos y hospedaje limitados a dos personas. Aplican términos y condiciones.
 
@@ -132,9 +145,9 @@ Formato 4:5, 6 tarjetas (el doc de campaña dice 5 en la tabla de embudo y 6 en 
 | 6 (cierre) | Your villa is ready to be seen. **Reserve your visit** | Tu villa está lista para que la conozcas. **Reserva tu visita** | Tarjeta crema con sol terracota (como la de octubre). Letra chica: *Flights and stay limited to two guests. Terms apply.* |
 
 ### Caption / texto principal
-**EN:** Come see your villa in person with Fly & Buy. Transfer, stay and a wellness experience on us; if you invest, we reimburse your flight.* Built and ready for your finishes. From $780K USD, with flexible financing. Explore current availability.
+**EN:** Come see your villa in person with Fly & Buy. Transfer, stay and a wellness experience on us; if you invest, we reimburse your flight.* Built and ready for your finishes. From $780K USD, with flexible financing options available. Explore current availability.
 
-**ES:** Conoce tu villa en persona con Fly & Buy. Traslado, hospedaje y experiencia wellness por nuestra cuenta; si inviertes, te reembolsamos el vuelo.* Construida y lista para tus acabados. Desde $780K USD, con opciones de financiamiento. Explora la disponibilidad actual.
+**ES:** Conoce tu villa en persona con Fly & Buy. Traslado, hospedaje y experiencia wellness por nuestra cuenta; si inviertes, te reembolsamos el vuelo.* Construida y lista para tus acabados. Desde $780K USD, con opciones de financiamiento flexibles. Explora la disponibilidad actual.
 
 Botón: Learn more / Más información · Destino: landing Fly & Buy (sección 8).
 
@@ -188,7 +201,7 @@ País de residencia · fechas tentativas de viaje · nº de viajeros · villa de
 | 2 · Te quedas | Up to two nights in a Cardinal villa, with a wellness experience inside the community. | Hasta dos noches en una villa de Cardinal, con una experiencia wellness dentro de la comunidad. |
 | 3 · La ves | Walk the available villas with our team. We review financing and answer every question. | Recorre las villas disponibles con nuestro equipo. Revisamos opciones de financiamiento y resolvemos tus dudas. |
 | 4 · Inviertes | Invest with Cardinal, and we reimburse your flight.* | Invierte con Cardinal y te reembolsamos el vuelo.* |
-| Bloque comercial | 3 and 4-bedroom villas, move-in ready in 90 days. **From $780K USD.** Developer financing: 30% down, 20% at delivery, balance interest-free for 1 year. *(confirmar vigencia)* | Villas de 3 y 4 recámaras, listas en 90 días. **Desde $780K USD.** Financiamiento del desarrollador: 30 % inicial, 20 % en entrega, saldo sin interés por 1 año. *(confirmar vigencia)* |
+| Bloque comercial | 3-bedroom villas from **$780K USD**, 4-bedroom from **$833K USD**. Move-in ready in 90 days. 30% down. 20% at delivery. 1 year interest-free on the balance. 10-year financing also available. | Villas de 3 recámaras desde **$780K USD**, de 4 recámaras desde **$833K USD**. Listas en 90 días. 30 % de enganche, 20 % a la entrega y saldo a 1 año sin intereses. También hay financiamiento a 10 años. |
 | Fechas | Visits available Nov 1 – Dec 20 and from Jan 20. | Visitas disponibles del 1 nov al 20 dic y desde el 20 ene. |
 | CTA | **Reserve your visit** | **Reserva tu visita** |
 | Letra chica | *Flights and stay limited to two guests. Terms apply. | *Vuelos y hospedaje limitados a dos personas. Aplican términos y condiciones. |
@@ -270,7 +283,7 @@ Estructura de la página:
 1. **Hero:** "Come see it. Stay in it. Make it yours." + qué incluye en una línea + botón "Reserve your visit" (ancla al formulario).
 2. **Qué cubre cada quién** (tabla del doc: vuelo = comprador, reembolsado si invierte; traslado, hospedaje, wellness, tour = Cardinal). Es la pieza que previene la lectura de "vuelo gratis".
 3. **Cómo funciona** en 4 pasos: reservas fechas → te recogemos → te quedas y vives Cardinal → recorres villas y decides.
-4. **Villas disponibles** (3 y 4 recámaras, desde $780K, 90 días) enlazando a `/villas-for-sale`.
+4. **Villas disponibles** (3 recámaras desde $780K, 4 recámaras desde $833K, 90 días) enlazando a `/villas-for-sale`.
 5. **Fechas:** 1 nov–20 dic y desde el 20 ene.
 6. **Formulario** con los mismos campos que el instantáneo + consentimiento WhatsApp.
 7. **Preguntas frecuentes y términos:** condiciones del reembolso (cuando existan), límite de 2 personas, vigencia.
