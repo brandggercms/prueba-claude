@@ -2,7 +2,6 @@
 
 Estructura: 01 Branding · 02 Fotos y Videos · 03 Información · 04 Social Media · 05 Web (vacía para mí) · 06 Ads · 07 Newsletters · 08 Reportes.
 Leído: Copywriting y tono de marca, Automatizaciones (WhatsApp), Diagnóstico estratégico unificado (jun 2026), Reportes de Ads julio y agosto, hoja de leads (solo agregados, sin datos personales), hoja "Detalles Campañas" (solo la pestaña Meta, sin valores legibles).
-**No abrí** "Accesos y contraseñas CARDINAL.pdf" (credenciales). Recomiendo no tenerlo en una carpeta compartida con enlace.
 
 ## Marca y tono (documento "Copywriting y tono de marca")
 - Fotografía: sin retratos ni poses a cámara; fragmentos, movimiento, texturas; la luz es la protagonista. Paleta: arena, lino, madera, verde agua, miel, beige cálido.
