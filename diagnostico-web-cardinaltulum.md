@@ -22,4 +22,3 @@ Leído con acceso de red completo: home, `/villas-for-sale/` (EN y ES) y `/finan
 - Meta Pixel y Conversions API dentro de GTM; eventos configurados para el formulario GHL.
 - Campos y automatizaciones del formulario `SjDKiqRzjazTG2oynV6J` y si se puede crear uno nuevo con origen `fly-and-buy`.
 - Páginas About, Location, Contact y Blog; Instagram/Facebook (necesito capturas por el login).
-- Qué es `mycardinaltulum.com`.
