@@ -1,20 +1,24 @@
 # Cardinal Tulum · Fly & Buy — Propuesta creativa y plan de coordinación
 
-Versión 1 · 2 oct 2026 · Go-live: domingo 1 nov 2026
-Base: Estrategia comercial H2 2026, propuesta de campaña Fly & Buy, calendario de octubre, newsletters 2026.
+Versión 2 · 2 oct 2026 · Go-live: domingo 1 nov 2026
+Base: estrategia comercial H2 2026, propuesta de campaña Fly & Buy, calendarios de octubre, newsletters 2026, y la carpeta de Drive de Cardinal (tono de marca, diagnóstico, automatizaciones, reportes de Ads julio y agosto, fotos y logos), más lectura de cardinaltulum.com.
 
-**Cómo leer este documento:** primero lo que hay que decidir (sección 1), después el sistema de mensaje que ordena a todas las áreas (2), los creativos de pauta (3–5), newsletter (6), social orgánico (7), web (8), revisión de pauta (9), WhatsApp (10) y cronograma hacia el 1 nov (11).
+**Cómo leer este documento:** contexto y hallazgos (0), decisiones pendientes (1), mensaje común (2), creativos de pauta (3–5), newsletter (6), social orgánico (7), web (8), revisión de pauta con datos reales (9), WhatsApp/SMS (10) y cronograma hacia el 1 nov (11).
 
 ---
 
-## 0. Qué encontré que cambia el trabajo (leer primero)
+## 0. Contexto y hallazgos que cambian el trabajo
 
-1. **Condiciones del reembolso sin definir** (monto mínimo de inversión, plazo para invertir tras la visita, tope). Mientras no existan, ningún copy puede decir "vuelo completo" (el doc de campaña dice "boleto completo" en "Bono final"). Propongo usar solo "reembolsamos tu vuelo" + asterisco con "dos personas, aplican términos". Es el bloqueador nº 1 para subir anuncios.
-2. **Precio, disponibilidad y financiamiento: versión unificada (resuelto, ver sección 2).** Se corrigieron las inconsistencias detectadas: el "$787K" de agosto está desactualizado, "15 villas" es el tamaño de la colección y no inventario, "Last 3 villas remain from Phase 1" sale de los anuncios hasta que Michelle valide la cifra, y "30-year financing" sale porque el fondo de México a 30 años agotó su primer bloque.
-3. **El newsletter de noviembre ya está escrito** (hoja "Noviembre") con el mensaje general "No compres una promesa". No menciona Fly & Buy. Propuesta en sección 6.
-4. **El newsletter de diciembre está vacío** y es el último envío antes de la pausa del 21 dic.
-5. **Posible restricción de Meta/Google para inmobiliario en EE. UU. y Canadá** (categoría especial "Housing"). Si aplica, la segmentación 35–65 años y los lookalikes de la estrategia no se pueden usar tal cual en esos países. Detalle en sección 9. Hay que verificarlo en Business Manager antes de configurar, no al subir.
-6. **Límites de lo que pude revisar:** `cardinaltulum.com` está bloqueado en mi entorno, así que **no revisé la web** ni el Instagram en vivo; la propuesta de web se basa en los documentos. Del calendario de octubre leí feed, stories, newsletter y anuncios (págs. 1–38 de 51). No abrí el Google Doc enlazado; asumí que el PDF es su exportación.
+**Qué revisé:** web (home, `/villas-for-sale/` EN/ES, `/financing-options/`), documento de tono de marca, diagnóstico estratégico de junio, automatización de ventas en GHL, reportes de Ads de julio y agosto, hoja de leads (solo agregados), fotos del showroom y logos. **No revisé:** Instagram/Facebook (piden login), el resto de páginas web, la hoja de segmentación (sin valores legibles). Los archivos de credenciales no se abren.
+
+**Hallazgos principales**
+1. **Escala real de la cuenta.** Meta invierte ~MXN 30K al mes y genera 29 a 44 leads mensuales; en agosto el costo por lead fue ~MXN 1,092 (julio: ~509) y 16 de 29 leads fueron de EE. UU./Canadá. El remarketing fue lo más eficiente (10 leads a ~MXN 702). **Google Ads lleva dos meses con cero conversiones.** La hoja de leads tiene ~133 registros en total. La estrategia de pauta de Fly & Buy (25 % para leads existentes, lookalike, 15 % Google) está pensada para una escala mayor: se ajusta en la sección 9.
+2. **Inventario.** El diagnóstico de junio indicaba 13 villas disponibles y 2 vendidas; "15" es el tamaño de la colección. Por eso se usa "Only a select number of residences remain" y no un número (sección 2).
+3. **La web contradice la versión oficial:** publica "$787K" (inicio y Type A), y la home y `/financing-options/` siguen vendiendo "15 to 30 years financing", fraccionado y crypto. Hay que corregirla antes del 1 nov (sección 8).
+4. **Ya existe una secuencia de WhatsApp/GHL de 21 días** (días 0, 2, 7, 14, 21) con cita en Calendly; a los leads de EE. UU. se les envía SMS. Fly & Buy debe ir en paralelo a esa secuencia, no reemplazarla (sección 10).
+5. **Reglas de marca:** sin retratos ni poses a cámara, la luz protagonista, paleta arena/lino/madera/verde agua/miel, wellness siempre "at home". El contenido de inversión es de 5 a 15 % del feed; lo comercial lo llevan stories, reels y pauta (secciones 3–5 y 7).
+6. **Términos del reembolso:** el cliente no respondió. Avanzamos con "Terms apply" y un marcador visible `[TÉRMINOS PENDIENTES]`; ningún copy dice "vuelo completo" ni "vuelo gratis".
+7. **Medición y captura no están cerradas:** cómo se capturan los leads (formulario de Meta, formulario web, clic a WhatsApp) depende de la definición de la parte de ads. Todo lo que dice "formulario" o "evento" es propuesta.
 
 ---
 
@@ -73,11 +77,14 @@ Encaja con el territorio ya instalado en octubre ("See it. Make it yours. Live i
 
 Asterisco fijo (EN/ES): *Flights and stay limited to two guests. Terms apply. / *Vuelos y hospedaje limitados a dos personas. Aplican términos y condiciones.
 
-### Tono (tomado de octubre)
-Calmado, seguro, sin urgencia gritada. Cierres imperativos y breves: "Claim your place.", "Belong here.", "Don't buy a promise." Los anuncios pueden ser más comerciales (oferta en las primeras dos líneas), pero con el mismo vocabulario.
+### Tono (octubre + documento de tono de marca)
+Calmado, seguro, sin urgencia gritada. Cierres imperativos y breves: "Claim your place.", "Belong here.", "Don't buy a promise." El feed se ve premium y no comercial; los anuncios pueden ser más directos (oferta en las dos primeras líneas) con el mismo vocabulario. Frases de marca disponibles: "Where Wellness Becomes a Lifestyle", "A Limited Collection of Private Residences".
 
 ### Sistema visual (para la diseñadora)
-Se mantiene lo visto en octubre: serif fina en blanco sobre foto oscurecida, textos de apoyo en sans pequeña con tracking, tarjeta de cierre crema con el sol terracota y "CARDINAL", etiqueta superior en versalitas ("FLY & BUY"). Reutilizar el layout "Other projects vs Cardinal" para la pieza de qué cubre cada parte.
+- **Fotografía:** fragmentos y atmósferas, no fachada completa ni foto inmobiliaria tradicional; la luz es la protagonista; sin poses ni mirada a cámara. Wellness siempre "at home" (tina, vapor, agua, terraza), no "retiro espiritual".
+- **Paleta:** arena, lino, madera, verde agua, miel, beige cálido. Tarjeta de cierre crema con el logo oficial (sol terracota + "CARDINAL / WELLNESS COMMUNITY", versión en color sobre crema y blanca sobre foto).
+- **Tipografía:** la marca usa **Canela** (serif fina; en el Drive hay carpeta "Canela Family"); texto de apoyo en sans pequeña. Los mockups de este PDF usan Cormorant Garamond como sustituto; la diseñadora debe usar Canela.
+- **Material:** las piezas de este PDF usan fotos reales del showroom (`01. Branding`/`02. Fotos y Videos > Fotos finales Show room`) y el logo oficial de `01. Branding > Logo`. Reutilizar el layout "Other projects vs Cardinal" de octubre para la pieza de qué cubre cada parte.
 
 ---
 
@@ -88,12 +95,12 @@ Formato 9:16, 24 s (+ corte de 15 s). Objetivo Meta: reproducciones/alcance. Aud
 ### Guion
 | Tiempo | Imagen (para la diseñadora / editor) | Texto en pantalla EN | Texto en pantalla ES |
 |---|---|---|---|
-| 0–3 s | Aérea cenital de la piscina entre selva a primera luz (plano de octubre 7/10), empuje lento | `FLY & BUY` (versalitas) · **2 nights in a Cardinal villa. We pick you up.** | `FLY & BUY` · **2 noches en una villa de Cardinal. Te recogemos.** |
+| 0–3 s | Vista aérea de las villas entre la selva (showroom: `Vista aerea Townhouse 2`), empuje lento | `FLY & BUY` (versalitas) · **2 nights in a Cardinal villa. We pick you up.** | `FLY & BUY` · **2 noches en una villa de Cardinal. Te recogemos.** |
 | 3–6 s | Camino blanco entre la selva hacia la costa (plano de octubre 6/10) o llegada por el acceso de Cardinal | From Cancún or Tulum airport, at no cost. | Del aeropuerto de Cancún o Tulum, sin costo. |
-| 6–10 s | Cortinas con luz de mañana, cama con cabecera de madera, selva en el cuadro | Wake up at Cardinal before you decide. | Despierta en Cardinal antes de decidir. |
-| 10–14 s | Fragmentos sensoriales: agua, vapor, manos, velas (referencia: serie "9 AM" de octubre). Sin poses | A wellness experience, on us. | Una experiencia wellness, por nuestra cuenta. |
-| 14–18 s | Recorrido: escalera, sillón de ratán, cocina, terraza con plunge pool; manos abriendo una puerta | Tour the villas. Choose your finishes. | Recorre las villas. Elige tus acabados. |
-| 18–21 s | Fachada al atardecer (plano "dream villa") | Move in within 90 days. From $780K USD. | Vive en ella en 90 días. Desde $780K USD. |
+| 6–10 s | Recámara principal con luz de mañana (showroom: `1ra habitación`), cama con cabecera de madera | Wake up at Cardinal before you decide. | Despierta en Cardinal antes de decidir. |
+| 10–14 s | Tina en terraza con luz y agua (showroom: `Terraza` con tina de piedra), vapor y velas (serie "9 AM" de octubre). Sin personas posando | A wellness experience, on us. | Una experiencia wellness, por nuestra cuenta. |
+| 14–18 s | Recorrido: escalera de madera y vidrio (showroom: `escaleras 2do nivel`), sala, terraza rooftop; manos abriendo una puerta | Tour the villas. Choose your finishes. | Recorre las villas. Elige tus acabados. |
+| 18–21 s | Luz natural entrando por el windcatcher (showroom: `windcatcher`); alternativa: fachada al atardecer | Move in within 90 days. From $780K USD. | Vive en ella en 90 días. Desde $780K USD. |
 | 21–24 s | Tarjeta crema con el sol terracota | **Invest, and we reimburse your flight.*** · Reserve your visit | **Si inviertes, te reembolsamos el vuelo.*** · Reserva tu visita |
 
 Audio: ambiente + música suave, sin locución. Subtítulos grabados. Mantener texto fuera del 14 % superior y 20 % inferior (zonas de interfaz). Versiones separadas EN y ES.
@@ -137,11 +144,11 @@ Formato 4:5, 6 tarjetas (el doc de campaña dice 5 en la tabla de embudo y 6 en 
 
 | Tarjeta | EN | ES | Imagen / idea para la diseñadora |
 |---|---|---|---|
-| 1 (portada) | **FLY & BUY** · 2 nights at Cardinal, on us. Invest, and we reimburse your flight.* | **FLY & BUY** · 2 noches en Cardinal, sin cargo. Si inviertes, te reembolsamos el vuelo.* | Villa al atardecer con la plunge pool. Etiqueta superior "FLY & BUY"; oferta en serif grande |
+| 1 (portada) | **FLY & BUY** · 2 nights at Cardinal, on us. Invest, and we reimburse your flight.* | **FLY & BUY** · 2 noches en Cardinal, sin cargo. Si inviertes, te reembolsamos el vuelo.* | Terraza con plunge pool a la luz del día (showroom: `Jacuzzi Terraza`). Etiqueta superior "FLY & BUY"; oferta en serif grande |
 | 2 | We pick you up. | Te recogemos. | Camino blanco entre la selva (octubre 6/10). Si hay material de llegada, mejor. Subtexto: *Cancún or Tulum airport to Cardinal, at no cost. / Del aeropuerto de Cancún o Tulum a Cardinal, sin costo.* |
 | 3 | Sleep in the villa you could own. | Duerme en la villa que podría ser tuya. | Recámara con cabecera de madera, luz de mañana, vegetación en cuadro |
-| 4 | A wellness experience, on us. | Una experiencia wellness, por nuestra cuenta. | Agua, textura, luz (baño con velas / yoga en sombra). Sin poses |
-| 5 | Tour the villas. Choose your finishes. Move in within 90 days. From $780K USD. | Recorre las villas. Elige tus acabados. Vive en ella en 90 días. Desde $780K USD. | Escalera, ratán, cocina, transiciones de espacios. Es la tarjeta de certeza |
+| 4 | A wellness experience, on us. | Una experiencia wellness, por nuestra cuenta. | Tina de piedra en terraza, agua y luz (showroom). Sin poses |
+| 5 | Tour the villas. Choose your finishes. Move in within 90 days. From $780K USD. | Recorre las villas. Elige tus acabados. Vive en ella en 90 días. Desde $780K USD. | Escalera de madera y vidrio, sala, transiciones de espacios (showroom). Es la tarjeta de certeza |
 | 6 (cierre) | Your villa is ready to be seen. **Reserve your visit** | Tu villa está lista para que la conozcas. **Reserva tu visita** | Tarjeta crema con sol terracota (como la de octubre). Letra chica: *Flights and stay limited to two guests. Terms apply.* |
 
 ### Caption / texto principal
@@ -158,7 +165,7 @@ Botón: Learn more / Más información · Destino: `https://cardinaltulum.com/vi
 Objetivo: leads (formulario instantáneo). Audiencias 1, 2 y 3. Dos versiones para probar.
 
 ### C1 · Emoción + oferta
-- Imagen: aérea cenital de piscina y villas entre selva (distinta de los anuncios de octubre, que usaron la fachada nocturna).
+- Imagen: terraza rooftop con camastros y pérgola (showroom: `Terraza rooftop`), distinta de los anuncios de octubre, que usaron la fachada nocturna.
 - Texto en imagen EN: **Fly in. Feel it. Claim your place.** / Airport pickup · Up to 2 nights in a villa · Wellness experience / Invest, and we reimburse your flight.*
 - Texto en imagen ES: **Vuela, vive Cardinal y reclama tu lugar.** / Traslado · Hasta 2 noches en una villa · Experiencia wellness / Si inviertes, te reembolsamos el vuelo.*
 - Story 9:16: mismo texto, jerarquía vertical; sticker/botón de CTA en el tercio medio.
@@ -221,6 +228,8 @@ Link del botón: `https://cardinaltulum.com/villas-for-sale/#fly-and-buy` con pa
 
 Del doc: Fly & Buy ocupa **1 post y 1 story por mes** dentro de los 12 posteos y 4 stories mensuales, todo bilingüe, con "link in bio". Octubre publica en un patrón de martes/viernes/domingo; sigo ese ritmo. **No es necesario esperar a noviembre:** lo que sí puede entrar en octubre es un teaser (abajo).
 
+**Equilibrio con la marca:** el documento de tono fija Investment en 5 a 15 % del contenido y pide que el feed se vea premium, con la carga comercial en stories, reels y pauta. Un post y una story al mes de Fly & Buy encaja en esa regla; si se quisiera más presencia, que sea en stories y no en feed.
+
 | Fecha | Pieza | Ángulo | Origen |
 |---|---|---|---|
 | Vie 30 o sáb 31 oct (opcional) | Story teaser: "Starting November 1 / A new way to see Cardinal" con recordatorio | Anticipación | Nuevo, 1 frame |
@@ -274,7 +283,15 @@ Se mantienen los textos del doc con dos ajustes: sacar el imperativo "Velo. Tóc
 
 ## 8. Web: sección Fly & Buy dentro de /villas-for-sale/
 
-Decisión tomada: Fly & Buy será **una sección dentro de la página existente** `https://cardinaltulum.com/villas-for-sale/`, no una página nueva. Todavía no pude abrir la web (el entorno la bloquea), así que esto es propuesta de estructura, no auditoría. Lo único que conozco de la página por los CSV: el hero dice "A limited collection of villas in Selvazamá · 15 private residences ready for final customization", el botón principal es "GET BROCHURE & PRICELIST" y sigue un párrafo sobre Selvazamá.
+Decisión tomada: Fly & Buy será **una sección dentro de la página existente** `https://cardinaltulum.com/villas-for-sale/` (hay versión en español en `/es/villas-for-sale/`), no una página nueva.
+
+**Cómo es la página hoy (leída el 2 oct):** WordPress + Elementor. Hero ("A limited collection of villas in Selvazamá · 15 private residences ready for final customization · Get Brochure & Pricelist") y banda de cifras (15 villas · 3 a 4 recámaras · 787K · Mortgage). Subnavegación con anclas: Location, Residences, Typologies, Amenities, Safe investment, Inquire. Secciones: 01 Location, 02 The residences ("Personalize Your Home. Delivered in 90 Days", dos paquetes de acabados), 03 Typologies (Type A 3 rec., Type B 4 rec., desde $787K y $833K), 04 Amenities, 05 Beach & Cenote, 06 Certified Investment Security (financiamiento), 07 Request Information ("Only a select number of residences remain... Our team responds within 24 hours"). Un formulario de GoHighLevel, widget de WhatsApp (Joinchat) y medición con Google Tag Manager y Google Ads; **no se ve el píxel de Meta** directamente (puede estar en GTM: verificar).
+
+**Correcciones previas que hay que hacer en la web (EN y ES), antes de publicar la sección:**
+1. Precio: "787K" / "$787K" pasa a **$780K** (3 recámaras); 4 recámaras se mantiene en $833K.
+2. Home y `/financing-options/`: retirar o matizar "15 to 30 years financing", "70 installments", fraccionado y crypto, que contradicen la versión oficial y el mensaje de Fly & Buy.
+3. Financiamiento: en `/villas-for-sale/` el plan de 10 años aparece "para canadienses"; confirmar a quién aplica el de 10 años con HIR.
+4. Ortografía: "Selva Zama" (título de la página y hero) pasa a "Selvazamá"; traducir las anclas de la subnavegación en español.
 
 **Dónde va:** justo debajo del hero y antes del contenido general, porque la mayoría del tráfico de anuncios llega desde el celular y no debe tener que desplazarse mucho. Con ancla `#fly-and-buy`, de modo que anuncios, newsletter y WhatsApp lleven directo a la sección: `https://cardinaltulum.com/villas-for-sale/#fly-and-buy`.
 
@@ -298,30 +315,34 @@ Decisión tomada: Fly & Buy será **una sección dentro de la página existente*
 
 ---
 
-## 9. Revisión de la estrategia de pauta
+## 9. Revisión de la estrategia de pauta (con datos reales de julio y agosto)
 
-Lo que está bien y lo mantendría: métrica principal = **visitas confirmadas**; foco en audiencias tibias/calientes dado el aprendizaje de agosto; mensaje en orden emoción→dato; oferta en las dos primeras líneas; pausa en temporada alta y reactivación por bloques de 4 semanas.
+**Punto de partida real:** Meta ~MXN 30K/mes; julio 44 leads (CPL ~509), agosto 29 leads (CPL ~1,092; 55 % de EE. UU./Canadá). Remarketing: 10 leads a ~MXN 702, el más eficiente. Landing: 5 leads en agosto con CTR de 1.14 % a 3.34 %. Google Ads: ~MXN 12.8K en agosto, **0 conversiones en julio y agosto**, 74 % del gasto en EE. UU./Canadá. El presupuesto de Fly & Buy sigue sin definirse.
 
-Ajustes que propongo, por impacto:
+Lo que está bien y mantengo: métrica principal = **visitas confirmadas**; mensaje en orden emoción, luego dato; oferta en las dos primeras líneas; pausa en temporada alta y reactivación por bloques de 4 semanas; foco en audiencias tibias.
 
-1. **Verificar la categoría especial "Housing" (EE. UU. y Canadá).** Meta exige declararla para anuncios inmobiliarios y, en esos países, restringe edad, género, código postal y no permite lookalikes. La estrategia pide 35–65 años y lookalike 1–3 %. Esto es de mi conocimiento general, no lo comprobé en su cuenta: **confirmarlo en Business Manager y con la política de Google Ads para inmobiliario.** Si aplica: separar campañas por geografía (México sin restricción; EE. UU./Canadá con la categoría declarada y segmentación amplia) y no contar con lookalike allá. Es lo más importante porque puede rechazar los anuncios o cambiar el reparto.
-2. **Audiencia 1 (leads existentes sin visita, 25 %) es pequeña.** Con presupuesto alto se satura (frecuencia alta). Sugiero bajarla a ~15–20 %, poner tope de frecuencia y cubrir a esos leads **primero por WhatsApp** (costo cero) y solo después por pauta.
-3. **Lookalike (25 %) necesita semilla suficiente.** Meta rinde mejor con ~100+ personas de la fuente. Si hay menos leads calificados + asistentes al Wellness Day, usar 3–5 % o combinar fuentes.
-4. **El 40 % de presupuesto en audiencias frías (lookalike + prospección) contradice el aprendizaje de agosto.** Sugiero empezar la ola 1 con 20 % frío y subir solo si el costo por visita confirmada lo justifica.
-5. **Medir por visita, no por lead.** Enviar a Meta desde GHL eventos de "visita agendada", "visita realizada" y "apartado" (Conversions API). Sin eso, el algoritmo optimiza hacia leads baratos que no viajan. Meta: costo por visita confirmada.
-6. **Probar un segundo destino de conversión:** anuncio con clic a WhatsApp (el prompt ya conecta con la secuencia) frente al formulario instantáneo. Más intención, menos volumen; vale una prueba chica en México.
-7. **Variantes de hook:** 2 versiones por anuncio (no solo 3 anuncios únicos). Ya incluí la del reel; para el estático, C1 vs C2.
-8. **Google Search (15 %):** además de marca y las keywords de la estrategia, agregar términos en español ("villas en venta Tulum", "casas en Tulum con alberca") y negativas ("renta", "airbnb", "vuelos baratos") para que la palabra "vuelo" no atraiga tráfico que busca boletos. Destino: la sección de /villas-for-sale/ (sección 8).
-9. **Cuidado con el texto de oferta:** Meta puede revisar con más cuidado mensajes con dinero/reembolso. Subir los anuncios con margen (ver cronograma) y tener los términos publicados en la sección web antes de la revisión.
-10. **Capacidad:** definir un tope semanal de visitas antes de activar. Si se llena el calendario, pausar el conjunto de conversión y mantener el reel.
+Ajustes, por impacto:
 
-Reparto de fases del doc (25 % / 35 % / pausa / 40 %) se mantiene; falta el presupuesto total.
+1. **Verificar la categoría especial "Housing" (EE. UU. y Canadá).** Meta exige declararla en anuncios inmobiliarios y, en esos países, restringe edad, género y código postal, y no permite lookalikes. Es conocimiento general, no lo comprobé en su cuenta: confirmarlo en Business Manager y con la política de Google. Si aplica, separar campañas por geografía y no contar con lookalike allá.
+2. **Google Search: no asignarle 15 % hasta resolver el cero de conversiones.** Primero verificar que la conversión (formulario, WhatsApp, Calendly) esté bien configurada en `AW-17761829800` y en GTM; mientras tanto, limitarlo a marca y México con tope bajo. Agregar negativas ("renta", "airbnb", "vuelos baratos") para que "vuelo" no atraiga a quien busca boletos.
+3. **El tamaño de las audiencias es pequeño.** La base es de ~133 leads totales (muchos no calificados): el 25 % para "leads sin visita" se satura y un lookalike 1–3 % necesita una semilla de ~100+ personas calificadas. Propongo bajar "leads existentes" a 10–15 % y atenderlos primero por WhatsApp/SMS; usar lookalike 3–5 % o combinar fuentes (leads + visitantes de la landing + asistentes al Wellness Day).
+4. **Priorizar remarketing.** Fue lo más eficiente. Para la ola 1: remarketing de visitantes web 90 días y de interacción con IG/FB como núcleo (≥50 % del presupuesto) y frío ≤ 20 %, en lugar del 40 % frío de la propuesta.
+5. **Medir por visita, no por lead.** Enviar a Meta, desde GHL, eventos de visita agendada, visita realizada y apartado (Conversions API). Con ~30 a 40 leads al mes, los volúmenes son bajos: medir semanalmente y decidir por tendencia, no por días.
+6. **Tope de visitas.** Definir cuántas visitas por semana se pueden atender antes de activar; si se llena, pausar el conjunto de conversión y mantener el reel.
+7. **Segundo destino de conversión.** Probar clic a WhatsApp frente al formulario, en México.
+8. **Variantes de hook.** Dos versiones por anuncio (reel: oferta primero o emoción primero; estático: C1 vs C2).
+9. **Texto de oferta.** Meta puede revisar con más cuidado mensajes con dinero o reembolso: cargar los anuncios con margen (ver cronograma) y tener la sección web publicada antes de la revisión.
+10. **Línea de precio relativo (a validar).** El diagnóstico de junio identificó como argumento más fuerte "la única comunidad de villas llave en mano en Selvazamá por menos de $900K" (competidor directo: Xanbel, $886K; el más peligroso por narrativa: Amari Cosmos). Se puede probar como variante de titular, **solo si el cliente valida la afirmación**.
+
+Reparto de fases (25 % / 35 % / pausa / 40 %) se mantiene como estructura; el presupuesto total sigue pendiente. Dado que hoy se invierte ~MXN 30K/mes en Meta, conviene que el cliente defina cuánto es incremental por Fly & Buy.
 
 ---
 
 ## 10. WhatsApp (GHL) — secuencia Fly & Buy
 
-Basado en el doc (días 0, 2, 5, 9 y confirmación). Idioma según país en el formulario (México → ES; EE. UU./Canadá → EN). Firma de un asesor con nombre.
+Basado en el doc de campaña (días 0, 2, 5, 9 y confirmación) y en la automatización existente en GHL (secuencia general de 21 días: días 0, 2, 7, 14 y 21, con cita en Calendly). **Fly & Buy corre en paralelo como rama propia**: al entrar un lead con origen Fly & Buy se pausa la general y se activa esta; si agenda visita, ambas se detienen. Idioma según país (México: ES; EE. UU./Canadá: EN). **Los leads de EE. UU. reciben SMS, no WhatsApp**, por la regla vigente; Canadá y México, WhatsApp. Firma de un asesor con nombre.
+
+**No reutilizar de la secuencia actual:** las cifras de apreciación (8–12 % anual), renta por noche ($200–650) y "3–4x la inversión", ni "créditos hasta 30 años", sin revisión legal; el financiamiento vigente es 10 años, hipoteca y plan del desarrollador (sección 2).
 
 **Día 0 (inmediato tras el formulario)**
 - EN: Hi {{first_name}}, thank you for your interest in Fly & Buy at Cardinal. Here's what's included: airport pickup, up to 2 nights in a Cardinal villa, a wellness experience inside the community, and a private tour of the available villas with financing options. If you invest, we reimburse your flight (up to two guests).* Which dates are you considering for your visit?
@@ -335,7 +356,7 @@ Basado en el doc (días 0, 2, 5, 9 y confirmación). Idioma según país en el f
 **Leads que entran del 21 dic al 19 ene:** mensaje día 0 con fechas disponibles desde el 20 ene.
 
 Coordinación técnica:
-- Los mensajes fuera de la ventana de 24 h requieren **plantillas aprobadas por Meta**; enviarlas a aprobación a más tardar el 20 oct.
+- Los mensajes de WhatsApp fuera de la ventana de 24 h requieren **plantillas aprobadas por Meta**; enviarlas a aprobación a más tardar el 20 oct. Para leads de EE. UU. (SMS), confirmar la plataforma de envío y el consentimiento.
 - Casilla de consentimiento en el formulario (anuncio y sección web).
 - Detener la secuencia si el lead agenda visita o responde (pasa a atención humana); respetar horario por zona (CDMX vs Toronto vs Los Ángeles).
 - Mismo asterisco y mismo orden de mensajes que en anuncios y sección web.
@@ -370,8 +391,9 @@ Coordinación técnica:
 
 ---
 
-## 12. Lo que hago a continuación (si estás de acuerdo)
-1. Ajusto el borrador una vez que me confirmes los puntos 1, 4 y 5 de la sección 1.
-2. Armo la pestaña "Noviembre" del Excel de newsletters con el texto de la sección 6 (EN/ES) y lleno "Diciembre".
-3. Redacto enero y febrero completos.
-4. Preparo el brief de una página por pieza para la diseñadora (reel, carrusel, estático C1/C2) con medidas y zonas seguras.
+## 12. Próximos pasos
+1. Cliente: términos del reembolso, presupuesto de Fly & Buy, fecha de cierre de la promo, validación del inventario (Michelle) y capacidad de visitas por semana.
+2. Brandgger/web: correcciones de la sección 8 y publicación de la sección Fly & Buy con ancla `#fly-and-buy`.
+3. Paid: definir con el cliente la captura (formulario de Meta, formulario web o WhatsApp), verificar Housing y las conversiones de Google, y configurar los eventos hacia Meta.
+4. CRM: plantillas de WhatsApp a aprobación (20 oct), rama Fly & Buy en paralelo a la secuencia de 21 días y regla de SMS para EE. UU.
+5. Diseño: pasar los mockups a Canela y a archivos finales con las fotos del showroom; revisar con la guía de marca (sin poses, luz, paleta).
