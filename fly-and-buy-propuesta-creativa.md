@@ -22,10 +22,10 @@ Base: Estrategia comercial H2 2026, propuesta de campaña Fly & Buy, calendario 
 
 | # | Pendiente | Quién decide | Para cuándo | Por qué bloquea |
 |---|---|---|---|---|
-| 1 | Condiciones del reembolso: monto mínimo, plazo tras la visita, tope, forma de pago | Cliente / legal | 7 oct | Copy, términos en landing, WhatsApp, anuncios |
+| 1 | Condiciones del reembolso: monto mínimo, plazo tras la visita, tope, forma de pago | Cliente / legal | 7 oct | Copy, términos en la sección web (marcador `[TÉRMINOS PENDIENTES]` hasta que el cliente responda), WhatsApp, anuncios |
 | 2 | Fecha de cierre de la promo (hoy: abierta desde 20 ene) | Cliente | 7 oct | Mensaje de urgencia en ola 2 |
 | 3 | Presupuesto total de pauta | Cliente | 9 oct | Reparto 25/35/40 y por audiencia |
-| 4 | Landing nueva en cardinaltulum.com o solo formulario instantáneo | Cliente + web | 7 oct | Los anuncios de carrusel (tráfico) y Google Search necesitan destino. **Recomiendo landing** (sección 8) |
+| 4 | ~~Landing nueva o solo formulario~~ **Resuelto:** sección dentro de `cardinaltulum.com/villas-for-sale/` (sección 8) | — | — | — |
 | 5 | ~~Precio, nº de villas y financiamiento~~ **Resuelto** (sección 2). Pendiente solo: Michelle valida cuántas villas hay realmente disponibles | Michelle | 7 oct | Poder usar un número de inventario en urgencia (hoy: "Only a select number of residences remain") |
 | 6 | Capacidad real: visitas por semana, traslados por día, quién atiende | Operaciones / ventas | 12 oct | Si la pauta llena más visitas de las que se pueden atender, la promo daña la experiencia |
 | 7 | Qué incluye la "experiencia wellness" (se decidió comunicarla en genérico; ¿hay una sesión fija?) | Cliente | 12 oct | Guion del reel y diciembre |
@@ -133,7 +133,7 @@ Audio: ambiente + música suave, sin locución. Subtítulos grabados. Mantener t
 
 ## 4. Anuncio B · Carrusel (consideración) — "A flight away"
 
-Formato 4:5, 6 tarjetas (el doc de campaña dice 5 en la tabla de embudo y 6 en el guion; mantengo 6 porque la última es la de cierre; el carrusel de octubre tenía 7). Objetivo: tráfico a la landing. Audiencias 3 y 4. Titular de anuncio: *Your next home is a flight away / Tu próximo hogar está a un vuelo de distancia.*
+Formato 4:5, 6 tarjetas (el doc de campaña dice 5 en la tabla de embudo y 6 en el guion; mantengo 6 porque la última es la de cierre; el carrusel de octubre tenía 7). Objetivo: tráfico a la sección de Fly & Buy en `/villas-for-sale/`. Audiencias 3 y 4. Titular de anuncio: *Your next home is a flight away / Tu próximo hogar está a un vuelo de distancia.*
 
 | Tarjeta | EN | ES | Imagen / idea para la diseñadora |
 |---|---|---|---|
@@ -149,7 +149,7 @@ Formato 4:5, 6 tarjetas (el doc de campaña dice 5 en la tabla de embudo y 6 en 
 
 **ES:** Conoce tu villa en persona con Fly & Buy. Traslado, hospedaje y experiencia wellness por nuestra cuenta; si inviertes, te reembolsamos el vuelo.* Construida y lista para tus acabados. Desde $780K USD, con opciones de financiamiento flexibles. Explora la disponibilidad actual.
 
-Botón: Learn more / Más información · Destino: landing Fly & Buy (sección 8).
+Botón: Learn more / Más información · Destino: `https://cardinaltulum.com/villas-for-sale/#fly-and-buy` con UTM (sección 8).
 
 ---
 
@@ -206,7 +206,7 @@ País de residencia · fechas tentativas de viaje · nº de viajeros · villa de
 | CTA | **Reserve your visit** | **Reserva tu visita** |
 | Letra chica | *Flights and stay limited to two guests. Terms apply. | *Vuelos y hospedaje limitados a dos personas. Aplican términos y condiciones. |
 
-Link del botón: landing Fly & Buy (o, mientras no exista, `https://cardinaltulum.com/villas-for-sale` con parámetros UTM). Envío: sugiero martes 3 nov para no competir con el lanzamiento del 1 nov; confirmar.
+Link del botón: `https://cardinaltulum.com/villas-for-sale/#fly-and-buy` con parámetros UTM. Envío: sugiero martes 3 nov para no competir con el lanzamiento del 1 nov; confirmar.
 
 ### Diciembre (hoja vacía) — borrador
 - Tema: Wellness + últimas fechas antes de la pausa.
@@ -272,24 +272,29 @@ Se mantienen los textos del doc con dos ajustes: sacar el imperativo "Velo. Tóc
 
 ---
 
-## 8. Landing / web
+## 8. Web: sección Fly & Buy dentro de /villas-for-sale/
 
-No pude abrir cardinaltulum.com, así que esto es propuesta de estructura, no auditoría.
+Decisión tomada: Fly & Buy será **una sección dentro de la página existente** `https://cardinaltulum.com/villas-for-sale/`, no una página nueva. Todavía no pude abrir la web (el entorno la bloquea), así que esto es propuesta de estructura, no auditoría. Lo único que conozco de la página por los CSV: el hero dice "A limited collection of villas in Selvazamá · 15 private residences ready for final customization", el botón principal es "GET BROCHURE & PRICELIST" y sigue un párrafo sobre Selvazamá.
 
-**Recomendación: página dedicada `/fly-and-buy` (EN/ES) + un aviso corto en la home.**
-Motivo: el carrusel (objetivo tráfico), el retargeting de visitantes, Google Search y el newsletter necesitan un destino con la oferta completa y los términos; el formulario instantáneo por sí solo no los cubre.
+**Dónde va:** justo debajo del hero y antes del contenido general, porque la mayoría del tráfico de anuncios llega desde el celular y no debe tener que desplazarse mucho. Con ancla `#fly-and-buy`, de modo que anuncios, newsletter y WhatsApp lleven directo a la sección: `https://cardinaltulum.com/villas-for-sale/#fly-and-buy`.
 
-Estructura de la página:
-1. **Hero:** "Come see it. Stay in it. Make it yours." + qué incluye en una línea + botón "Reserve your visit" (ancla al formulario).
-2. **Qué cubre cada quién** (tabla del doc: vuelo = comprador, reembolsado si invierte; traslado, hospedaje, wellness, tour = Cardinal). Es la pieza que previene la lectura de "vuelo gratis".
-3. **Cómo funciona** en 4 pasos: reservas fechas → te recogemos → te quedas y vives Cardinal → recorres villas y decides.
-4. **Villas disponibles** (3 recámaras desde $780K, 4 recámaras desde $833K, 90 días) enlazando a `/villas-for-sale`.
-5. **Fechas:** 1 nov–20 dic y desde el 20 ene.
-6. **Formulario** con los mismos campos que el instantáneo + consentimiento WhatsApp.
-7. **Preguntas frecuentes y términos:** condiciones del reembolso (cuando existan), límite de 2 personas, vigencia.
-8. Aviso en home: barra superior o bloque tras el hero con "Fly & Buy · Stay 2 nights at Cardinal" que enlaza a la página.
+**Contenido de la sección (en este orden):**
+1. **Titular:** "Come see it. Stay in it. Make it yours." + una línea con lo que incluye + botón "Reserve your visit" que baja al formulario de la propia sección.
+2. **Qué cubre cada quién** (tabla del doc: vuelo = comprador, reembolsado si invierte; traslado, hospedaje, wellness y tour = Cardinal). Previene la lectura de "vuelo gratis".
+3. **Cómo funciona** en 4 pasos: reservas fechas, te recogemos, te quedas y vives Cardinal, recorres villas y decides.
+4. **Fechas:** 1 nov a 20 dic y desde el 20 ene.
+5. **Formulario** con los mismos campos que el instantáneo + consentimiento de WhatsApp.
+6. **Preguntas frecuentes y términos:** límite de 2 personas, vigencia y condiciones del reembolso con el marcador `[TÉRMINOS PENDIENTES]` hasta que el cliente responda.
+7. El resto de la página (villas, precios, "Get brochure") queda como está.
 
-Técnico: parámetros UTM por anuncio (ID de creativo A/B/C), píxel con eventos Lead y Schedule, página de gracias con Calendly, y envío del evento "visita confirmada" a Meta desde GHL (sección 9).
+**Cuidados al convivir con el contenido existente:**
+- **Dos formularios en la misma página** (brochure y Fly & Buy). Cada uno debe enviar un campo oculto de origen (`source=fly-and-buy` o `source=brochure`) para que GHL active la secuencia correcta de WhatsApp y no se mezclen los leads.
+- **Aviso en la home y en el menú:** barra superior "Fly & Buy · Stay 2 nights at Cardinal" que enlaza a la ancla.
+- **Google Search:** como el destino es una página general, conviene que el titular y la sección repitan las palabras clave de los anuncios para no perder relevancia. Si Search rinde mal, se evalúa una página propia solo para esa campaña.
+- **Medición:** como no hay página de gracias propia, usar evento de formulario enviado (Lead) y de Calendly agendado (Schedule) en lugar de contar páginas.
+- **Mensajes contradictorios:** la home publica hoy "Exclusive 15 to 30 years financing plan". Corregirla antes del 1 nov (sección 2).
+- Ortografía "Selvazamá" también en la página.
+
 
 ---
 
@@ -306,8 +311,8 @@ Ajustes que propongo, por impacto:
 5. **Medir por visita, no por lead.** Enviar a Meta desde GHL eventos de "visita agendada", "visita realizada" y "apartado" (Conversions API). Sin eso, el algoritmo optimiza hacia leads baratos que no viajan. Meta: costo por visita confirmada.
 6. **Probar un segundo destino de conversión:** anuncio con clic a WhatsApp (el prompt ya conecta con la secuencia) frente al formulario instantáneo. Más intención, menos volumen; vale una prueba chica en México.
 7. **Variantes de hook:** 2 versiones por anuncio (no solo 3 anuncios únicos). Ya incluí la del reel; para el estático, C1 vs C2.
-8. **Google Search (15 %):** además de marca y las keywords de la estrategia, agregar términos en español ("villas en venta Tulum", "casas en Tulum con alberca") y negativas ("renta", "airbnb", "vuelos baratos") para que la palabra "vuelo" no atraiga tráfico que busca boletos. Landing obligatoria (sección 8).
-9. **Cuidado con el texto de oferta:** Meta puede revisar con más cuidado mensajes con dinero/reembolso. Subir los anuncios con margen (ver cronograma) y tener los términos publicados en la landing antes de la revisión.
+8. **Google Search (15 %):** además de marca y las keywords de la estrategia, agregar términos en español ("villas en venta Tulum", "casas en Tulum con alberca") y negativas ("renta", "airbnb", "vuelos baratos") para que la palabra "vuelo" no atraiga tráfico que busca boletos. Destino: la sección de /villas-for-sale/ (sección 8).
+9. **Cuidado con el texto de oferta:** Meta puede revisar con más cuidado mensajes con dinero/reembolso. Subir los anuncios con margen (ver cronograma) y tener los términos publicados en la sección web antes de la revisión.
 10. **Capacidad:** definir un tope semanal de visitas antes de activar. Si se llena el calendario, pausar el conjunto de conversión y mantener el reel.
 
 Reparto de fases del doc (25 % / 35 % / pausa / 40 %) se mantiene; falta el presupuesto total.
@@ -331,9 +336,9 @@ Basado en el doc (días 0, 2, 5, 9 y confirmación). Idioma según país en el f
 
 Coordinación técnica:
 - Los mensajes fuera de la ventana de 24 h requieren **plantillas aprobadas por Meta**; enviarlas a aprobación a más tardar el 20 oct.
-- Casilla de consentimiento en el formulario (anuncio y landing).
+- Casilla de consentimiento en el formulario (anuncio y sección web).
 - Detener la secuencia si el lead agenda visita o responde (pasa a atención humana); respetar horario por zona (CDMX vs Toronto vs Los Ángeles).
-- Mismo asterisco y mismo orden de mensajes que en anuncios y landing.
+- Mismo asterisco y mismo orden de mensajes que en anuncios y sección web.
 
 ---
 
@@ -345,12 +350,12 @@ Coordinación técnica:
 | Jue 8 oct | Aprobación de copy (anuncios, newsletter, WhatsApp) | Cliente |
 | Vie 9 oct | Respuesta sobre material (video de llegada/villa), presupuesto, GHL | Cliente / producción |
 | 12 – 16 oct | Diseño v1: reel, carrusel, estáticos C1/C2, newsletter | Diseño |
-| 12 – 16 oct | Landing: wireframe y copy EN/ES | Web |
+| 12 – 16 oct | Sección Fly & Buy en /villas-for-sale/: wireframe y copy EN/ES | Web |
 | 20 oct | Plantillas de WhatsApp enviadas a aprobación · diseños finales aprobados | CRM · Cliente |
-| 22 – 23 oct | Landing en staging · formulario instantáneo y evento de visita (CAPI) probados en GHL | Web · Paid |
+| 22 – 23 oct | Sección en staging · formulario instantáneo y evento de visita (CAPI) probados en GHL | Web · Paid |
 | 26 – 28 oct | Anuncios cargados y enviados a revisión de Meta/Google | Paid |
 | 29 oct | QA cruzado: precio, asterisco, links, UTM, idioma | Todas |
-| 30 – 31 oct | Teaser opcional en story; landing en vivo | Social · Web |
+| 30 – 31 oct | Teaser opcional en story; sección web en vivo | Social · Web |
 | **Dom 1 nov** | **Activación** de pauta, secuencia WhatsApp y banner en home | Paid · CRM · Web |
 | Mar 3 nov | Post + stories orgánicos y newsletter | Social · Email |
 | 22 nov | Pasar a ola 2 (35 %: conversión y retargeting) | Paid |
@@ -359,8 +364,8 @@ Coordinación técnica:
 
 **Cómo se retroalimentan las áreas (semanal, 20 min, mientras corra la ola):**
 - Paid → Social/Email: qué hook y qué creativo retiene o genera visitas; ese gana el siguiente post y el asunto del newsletter.
-- Ventas/WhatsApp → Paid/Social: las preguntas que más se repiten en las llamadas (reembolso, fechas, financiamiento) se vuelven contenido y entran al FAQ de la landing.
-- Web → Paid: tasa de conversión de la landing por origen (UTM).
+- Ventas/WhatsApp → Paid/Social: las preguntas que más se repiten en las llamadas (reembolso, fechas, financiamiento) se vuelven contenido y entran al FAQ de la sección web.
+- Web → Paid: tasa de conversión de la sección web por origen (UTM).
 - Todas → una sola fuente de verdad: precio, nº de villas, condiciones del reembolso y asterisco, en un documento compartido que se actualiza una vez.
 
 ---
