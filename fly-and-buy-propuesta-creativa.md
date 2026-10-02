@@ -283,15 +283,15 @@ Decisión tomada: Fly & Buy será **una sección dentro de la página existente*
 2. **Qué cubre cada quién** (tabla del doc: vuelo = comprador, reembolsado si invierte; traslado, hospedaje, wellness y tour = Cardinal). Previene la lectura de "vuelo gratis".
 3. **Cómo funciona** en 4 pasos: reservas fechas, te recogemos, te quedas y vives Cardinal, recorres villas y decides.
 4. **Fechas:** 1 nov a 20 dic y desde el 20 ene.
-5. **Formulario** con los mismos campos que el instantáneo + consentimiento de WhatsApp.
+5. **Formulario o CTA de captura** (a definir con la parte de ads: formulario en la web, clic a WhatsApp o ambos). Si es formulario, propongo los mismos campos que el instantáneo + consentimiento de WhatsApp.
 6. **Preguntas frecuentes y términos:** límite de 2 personas, vigencia y condiciones del reembolso con el marcador `[TÉRMINOS PENDIENTES]` hasta que el cliente responda.
 7. El resto de la página (villas, precios, "Get brochure") queda como está.
 
 **Cuidados al convivir con el contenido existente:**
-- **Dos formularios en la misma página** (brochure y Fly & Buy). Cada uno debe enviar un campo oculto de origen (`source=fly-and-buy` o `source=brochure`) para que GHL active la secuencia correcta de WhatsApp y no se mezclen los leads.
+- **Si la sección incluye un formulario propio** (a definir junto con la estrategia de ads), convivirá con el de brochure en la misma página. Cada uno debería enviar un campo oculto de origen (`source=fly-and-buy` o `source=brochure`) para que GHL active la secuencia correcta de WhatsApp y no se mezclen los leads.
 - **Aviso en la home y en el menú:** barra superior "Fly & Buy · Stay 2 nights at Cardinal" que enlaza a la ancla.
 - **Google Search:** como el destino es una página general, conviene que el titular y la sección repitan las palabras clave de los anuncios para no perder relevancia. Si Search rinde mal, se evalúa una página propia solo para esa campaña.
-- **Medición:** como no hay página de gracias propia, usar evento de formulario enviado (Lead) y de Calendly agendado (Schedule) en lugar de contar páginas.
+- **Medición (propuesta, no cerrada):** cómo se capturan los leads y qué se mide depende de cómo se defina la parte de ads (formulario instantáneo de Meta, formulario en la web, clic a WhatsApp, o una combinación). Hasta que eso se defina, no asumo eventos ni formularios concretos. Si se usa un formulario en la web, la idea sería medir el envío y el agendado en Calendly en lugar de una página de gracias.
 - **Mensajes contradictorios:** la home publica hoy "Exclusive 15 to 30 years financing plan". Corregirla antes del 1 nov (sección 2).
 - Ortografía "Selvazamá" también en la página.
 
