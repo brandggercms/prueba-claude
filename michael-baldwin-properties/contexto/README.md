@@ -8,6 +8,7 @@ Material base del cliente. Léelo antes de producir cualquier contenido, pieza o
 | `02-brief-discovery.md` | Brand Strategy Discovery Brief completo, respondido por Lina (28 oct 2026) |
 | `03-cambios-sitio-lifestyle.md` | Cambios pedidos al sitio Lifestyle in Cabo |
 | `04-estado-y-pendientes.md` | Check-in del PM con responsables |
+| `05-referencia-robb-report.md` | Análisis del Instagram de Robb Report como referencia editorial |
 | `fuentes/` | Archivos originales (.docx y .xlsx) |
 
 ## Reglas de trabajo
