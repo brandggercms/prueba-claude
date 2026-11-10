@@ -10,12 +10,18 @@ Cada decisión indica quién la dio y, cuando corresponde, sus palabras textuale
 5. **Alcance de Daniela.** *"Mi parte principal es ajustar informacion de facebook e instagram segun el sitio web cuando este ajustado."* La cuenta a optimizar es @michaelbaldwinproperties: bio, links y nombre. Solo tiene acceso a Facebook. Daniela responde los mensajes de Messenger (*"yo respondo los mensajes."*).
 6. **La presentación de estrategia no se edita.** Es trabajo del equipo; se usa para entender el contexto (ver `06`).
 7. **Visual.** Se usa la imagen actual hasta tener el nuevo manual de marca [mensaje de Daniela, `01`].
+8. **Información de contacto oficial, aprobada por el cliente** (Daniela, 10 nov 2026: *"INFORMACION APROBADA POR CLIENTE. INFO OFICIAL"*):
+   - Teléfono / WhatsApp: +1 713 201 7436 (Facebook mostraba +52 713 201 7436).
+   - Correo: michael@michaelbaldwinproperties.com
+   - Dirección: Carretera Transpeninsular Km 27, San José del Cabo, Mexico, 23406
+   - El horario ("Siempre abierto") no estaba en lo aprobado: sin confirmar.
 
 ## Pendientes que bloquean la publicación (necesitan respuesta del cliente)
-1. **Contacto.** Confirmar el teléfono +52 713 201 7436, el correo michael@michaelbaldwinproperties.com y la dirección Carretera Transpeninsular Km 27, San José del Cabo, Mexico, 23406. Preguntar si habrá un WhatsApp. Ninguno está en el Brief.
-2. **Sitio web.** Si MichaelBaldwinProperties.com ya está publicado y su dirección exacta (estaba estimado para el 11 de noviembre [Daniela]).
-3. **Del Mar Real Estate.** Si su nombre y logo van en las bios: *"the approved brokerage name and logo must be prominently displayed"* [Brief 02 Q4]. Sus reglas formales aún no llegan.
-4. **Instagram.** Nombre que prefieren y acceso a la cuenta (apelación pendiente).
+1. **Sitio web.** Si MichaelBaldwinProperties.com ya está publicado y su dirección exacta (estaba estimado para el 11 de noviembre [Daniela]).
+2. **Del Mar Real Estate.** Si su nombre y logo van en las bios: *"the approved brokerage name and logo must be prominently displayed"* [Brief 02 Q4]. Sus reglas formales aún no llegan.
+3. **Instagram.** Nombre que prefieren y acceso a la cuenta (apelación pendiente).
+
+El contacto dejó de ser pendiente: ver la decisión 8. Al 10 nov 2026 el cliente no había respondido los tres puntos de arriba [Daniela].
 
 ## Pendientes menores o internos
 - El periodo del "No. 1": el Brief no lo da; se publica con la fuente (MLS BCS) y sin año.
@@ -25,9 +31,11 @@ Cada decisión indica quién la dio y, cuando corresponde, sus palabras textuale
 - Si Michael y Olivia aparecen como equipo en las bios [Brief 06 Q5]. Si "la otra chica" de Daniela es Olivia: sin confirmar.
 - El gráfico de Facebook que parece decir "6 oceanside lots remaining": si el número se confirma, contradice al Brief (*"only 9 homes and 1 lot were available for sale across Villas del Mar, Espíritu and Palmilla Cove"* [03 Q4]); ver el original.
 - El tagline *"Exceptional Properties. Extraordinary Lifestyles."* está *"Open to discussion"* [Brief 02 Q1]; no se usó.
+- Horario de Facebook ("Siempre abierto"): sin confirmar.
 - Pendientes del PM que siguen abiertos: ver `04-estado-y-pendientes.md`.
 
-## Borrador del mensaje al cliente (WhatsApp, sin enviar)
+## Mensaje al cliente (WhatsApp)
+Daniela lo envió el 10 nov 2026; el texto exacto enviado no quedó registrado. Esta es la última versión que preparamos. El cliente ya respondió el contacto (decisión 8); siguen sin respuesta sitio web, Del Mar e Instagram.
 ```text
 Hola, estamos ordenando la información de las cuentas de Facebook e Instagram de Michael Baldwin Properties para que todas queden actualizadas y digan lo mismo. Para las cifras y los títulos vamos a usar el Brief del 28 de octubre. Nos faltan estos datos para terminar:
 

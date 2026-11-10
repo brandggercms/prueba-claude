@@ -16,7 +16,10 @@ Estado: **propuestas, no aplicadas.** Hay un Claude Doc y un Google Doc con una 
 | Área de servicio | Vacío | Palmilla, Los Cabos | *"A single-market focus: Palmilla, known in depth."* [01 Q5]. El Brief no tiene una frase exacta de "área de servicio" |
 | Medios sociales | Vacío | instagram.com/michaelbaldwinproperties | Conecta las cuentas; link dado por Daniela |
 | Especialidades y servicios | Vacío | Buyer advisory and representation; Seller representation and listing marketing; Market intelligence | Servicios principales [01 Q2] |
-| Teléfono, correo, dirección | Ver `07` | No change until the client confirms | No están en el Brief |
+| Teléfono | +52 713 201 7436 | +1 713 201 7436 | Información oficial aprobada por el cliente (mensaje de Daniela, 10 nov 2026). No está en el Brief |
+| WhatsApp | Vacío | +1 713 201 7436 | Mismo número del teléfono, aprobado por el cliente |
+| Correo | michael@michaelbaldwinproperties.com | Keep | Aprobado por el cliente |
+| Dirección | Carretera Transpeninsular Km 27, San José del Cabo, Mexico, 23406 | Keep | Aprobada por el cliente |
 
 ## Instagram
 | Campo | Antes | Ajuste (en inglés) | Por qué (Brief) |
