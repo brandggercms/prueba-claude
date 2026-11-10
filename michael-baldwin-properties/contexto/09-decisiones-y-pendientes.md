@@ -15,6 +15,13 @@ Cada decisión indica quién la dio y, cuando corresponde, sus palabras textuale
    - Correo: michael@michaelbaldwinproperties.com
    - Dirección: Carretera Transpeninsular Km 27, San José del Cabo, Mexico, 23406
    - El horario ("Siempre abierto") no estaba en lo aprobado: sin confirmar.
+9. **Reunión con Brandgger (10 nov 2026, detalle en `10`).**
+   - Confirmado: *"esta confirmado que mejoraremos y trabajremos en esta web de lifestyleincabo."*
+   - El dominio queda pendiente: *"lo del dominio aun no vamos avanzar con la distribucion, porque vamos a hacer la auditoria primero que nada."*
+   - Primer paso: auditoría del sitio público lifestyleincabo.com, alineada a la estrategia y al Excel de Lina. **Todavía no empezó**: Daniela pidió *"todabia no hagas nada, aprende."*
+10. **Propiedades principales:** Casa Amore (Casita 11), Cove 7 y Villa 452. El material lo trabajará diseño más adelante.
+11. **Audiencia:** el "90% California y Texas, oeste de EE.UU." es una propuesta, no un dato; se estudia y se propone (Daniela: *"no consideres que es tal cual"*).
+12. **Voz de Michael:** Daniela transcribe sus videos; lo recibido está en `11` y `fuentes/youtube-transcripciones.md`.
 
 ## Pendientes que bloquean la publicación (necesitan respuesta del cliente)
 1. **Sitio web.** Si MichaelBaldwinProperties.com ya está publicado y su dirección exacta (estaba estimado para el 11 de noviembre [Daniela]).
@@ -32,6 +39,12 @@ El contacto dejó de ser pendiente: ver la decisión 8. Al 10 nov 2026 el client
 - El gráfico de Facebook que parece decir "6 oceanside lots remaining": si el número se confirma, contradice al Brief (*"only 9 homes and 1 lot were available for sale across Villas del Mar, Espíritu and Palmilla Cove"* [03 Q4]); ver el original.
 - El tagline *"Exceptional Properties. Extraordinary Lifestyles."* está *"Open to discussion"* [Brief 02 Q1]; no se usó.
 - Horario de Facebook ("Siempre abierto"): sin confirmar.
+- Si el cliente seguirá usando "Michael Baldwin Properties" o "lifestyleincabo" como marca principal (duda del equipo, para el cliente).
+- Cómo se usará Del Mar Real Estate: en la bio o solo en los captions (*"lo pondriamos en la bio si es necesario, o captions"*); sin respuesta del cliente.
+- Cuál de los dos canales de YouTube es el vigente.
+- Total vendido: YouTube dice 1.75 B, Facebook 1.8 B, Instagram 2B+ y el Brief más de 2 mil millones: se usa el Brief (decisión 1), pero en YouTube sigue otro número.
+- Precio de Casa Amore: 13.9M en la descripción y 15.9M hablado en el video.
+- Correo en las descripciones de YouTube (michael@delmarre.com) distinto del oficial aprobado.
 - Pendientes del PM que siguen abiertos: ver `04-estado-y-pendientes.md`.
 
 ## Mensaje al cliente (WhatsApp)

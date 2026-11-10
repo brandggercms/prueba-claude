@@ -14,7 +14,9 @@ Material base del cliente y del trabajo. Léelo antes de producir contenido, pie
 | `07-perfiles-sociales-estado-actual.md` | Cómo están hoy Facebook, Instagram y Linktree |
 | `08-ajustes-propuestos-redes.md` | Antes, ajuste y por qué, en inglés y verificado con el Brief |
 | `09-decisiones-y-pendientes.md` | Decisiones vigentes, pendientes y el borrador de mensaje al cliente |
-| `fuentes/` | Archivos originales (.docx, .xlsx) y la imagen de las gorras del Brief |
+| `10-reunion-brandgger-y-proximos-pasos.md` | Reunión del equipo (10 nov 2026): dudas para el cliente, auditoría de lifestyleincabo.com como primer paso, SEO/SEM, LinkedIn, blog y newsletter |
+| `11-youtube-michael-voz-y-contenido.md` | Canales y videos de Michael, su forma de hablar y diferencias con el Brief |
+| `fuentes/` | Archivos originales (.docx, .xlsx), la imagen de las gorras del Brief y `youtube-transcripciones.md` |
 
 ## Reglas de trabajo
 1. **No dar nada por sentado.** Todo sale de los documentos, links, capturas y mensajes compartidos. Cada dato dice de dónde viene (documento, sección, fecha) y se cita textual. Lo que es inferencia se marca como tal; lo que no está en las fuentes se pregunta.
@@ -27,3 +29,4 @@ Material base del cliente y del trabajo. Léelo antes de producir contenido, pie
 8. **Estilo del cliente** [Brief 06 Q5]: evitar lenguaje de venta agresivo, urgencia, clichés ("front-row seat", "the journey behind the numbers", "the evolution of the market"), superlativos genéricos y estadísticas sin sustento.
 9. **Michael y Olivia se presentan siempre como equipo** [Brief 06 Q5].
 10. **Claude no edita las cuentas.** Solo prepara los textos; Daniela los aplica.
+11. **Hay trabajo en pausa a propósito.** La auditoría de lifestyleincabo.com y la distribución del dominio no empiezan hasta que Daniela lo indique (*"todabia no hagas nada, aprende"*). Mientras tanto se aprende y se registra.
