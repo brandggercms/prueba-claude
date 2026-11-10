@@ -21,7 +21,12 @@
 ## Instagram (páginas públicas, 10 nov 2026)
 - **@michaelbaldwinproperties:** 2.988 seguidores y 483 publicaciones. **@lifestyleincabo:** 4.223 seguidores y 893 publicaciones; es una cuenta aparte (confirmado), con otro Linktree (linktr.ee/LifestyleInCaboMB).
 - En @michaelbaldwinproperties, 8 publicaciones propias (20 ago–9 nov 2026): de 8 a 48 me gusta (promedio 21), de 0 a 3 comentarios. Las 4 publicaciones compartidas desde @stephanievbaldwin tienen de 76 a 133 me gusta (promedio 103). Ritmo: 8 publicaciones en 81 días; desde la firma del contrato (20 oct) van 4. Muestra chica, sin vistas de reels ni alcance.
-- Faltan Instagram Insights y las métricas de Facebook, que Daniela compartirá.
+- **Instagram Insights de @michaelbaldwinproperties, 13 oct–9 nov 2026 (capturas de Daniela):**
+  - Visualizaciones: 12.425 en Instagram (+79,1%), todas orgánicas, y 1.128 en Facebook. Alcance: 1.290 (+131,6%), con 583 seguidores (+34%) y 685 no seguidores (+431%).
+  - 37,4% de las visualizaciones vienen de no seguidores. Interacciones: 508 (+51,6%), 77% de seguidores.
+  - Seguidores nuevos: 38; dejaron de seguir: 24 (neto +14). Conversaciones, contactos nuevos y pedidos: 0. Anuncios: 0.
+  - Lo más visto y más interactuado: dos publicaciones compartidas con la cuenta de Stephanie ("A perfect Cabo day aboard Darlin", 22 oct: 1,9 mil vistas y 100 me gusta; "Fort Lauderdale Boat Show", 5 nov: 1,5 mil y 103). Las propiedades rinden menos: Villa 452 (1,2 mil y 54), Entrada 63 (1,2 mil y 30), Casa Amore (960 y 27).
+- Faltan de Instagram: la pestaña Público (país, ciudad, edad), visitas al perfil y clics en el link, y un periodo de 90 días o 12 meses. De Facebook, las métricas de la página "Michael Baldwin Properties".
 
 ## Pendiente
 - PDF de la auditoría completa con la identidad visual de la presentación de estrategia (Daniela, después de tener los datos de Facebook e Instagram).
