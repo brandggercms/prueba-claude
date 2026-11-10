@@ -22,6 +22,8 @@ Cada decisión indica quién la dio y, cuando corresponde, sus palabras textuale
 10. **Propiedades principales:** Casa Amore (Casita 11), Cove 7 y Villa 452. El material lo trabajará diseño más adelante.
 11. **Audiencia:** el "90% California y Texas, oeste de EE.UU." es una propuesta, no un dato; se estudia y se propone (Daniela: *"no consideres que es tal cual"*).
 12. **Voz de Michael:** Daniela transcribe sus videos; lo recibido está en `11` y `fuentes/youtube-transcripciones.md`.
+13. **Auditoría y rendimiento de contenido (10 nov 2026, detalle en `12` y `13`).** Daniela pidió medir qué funciona en canales, posts y alcance (*"que funciona que no, si no que es una auditoria?"*). Estado: YouTube e Instagram revisados con datos públicos; Daniela pide acceso a YouTube Analytics y compartirá las métricas de Instagram y Facebook. Después se arma un PDF de la auditoría completa con la identidad visual de la presentación de estrategia.
+14. **Canal de YouTube:** los datos muestran que el canal con audiencia es @lifestyleincaboMichaelBaldwin (7,47 mil suscriptores, 165 videos); @michaelbaldwinproperties4703 tiene 4 suscriptores y 2 videos. Qué hacer con el nombre queda para decidir con el cliente.
 
 ## Pendientes que bloquean la publicación (necesitan respuesta del cliente)
 1. **Sitio web.** Si MichaelBaldwinProperties.com ya está publicado y su dirección exacta (estaba estimado para el 11 de noviembre [Daniela]).

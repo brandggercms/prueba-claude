@@ -5,7 +5,7 @@
 ## Canales
 - **Oficial, según Daniela:** https://www.youtube.com/@lifestyleincaboMichaelBaldwin
 - **Otro canal que encontró:** https://www.youtube.com/@michaelbaldwinproperties4703
-- No se sabe cuál usa hoy el cliente. El Brief ya dice que el canal *"currently reaches the wrong audience"* [Brief 01 Q5].
+- **Datos del 10 nov 2026:** @lifestyleincaboMichaelBaldwin tiene 7,47 mil suscriptores y 165 videos; @michaelbaldwinproperties4703, 4 suscriptores y 2 videos de hace 11 y 12 años. Detalle de rendimiento en `12-auditoria-web-y-redes.md`. El Brief dice que el canal *"currently reaches the wrong audience"* [Brief 01 Q5].
 
 ## Qué hay en el canal oficial (según la lista pegada)
 **Listas de reproducción y su descripción (extractos textuales):**
