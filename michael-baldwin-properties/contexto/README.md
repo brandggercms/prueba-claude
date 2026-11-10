@@ -1,20 +1,29 @@
-# Contexto: Michael Baldwin Properties
+# Contexto: Michael Baldwin Properties (second brain)
 
-Material base del cliente. Léelo antes de producir cualquier contenido, pieza o pauta.
+Material base del cliente y del trabajo. Léelo antes de producir contenido, piezas, pauta o ajustes de perfiles. Última actualización: 10 nov 2026.
 
+## Índice
 | Archivo | Contenido |
 |---|---|
 | `01-cliente-y-alcance.md` | Quiénes son, equipos, contrato, target (sin definir), condicionantes |
-| `02-brief-discovery.md` | Brand Strategy Discovery Brief completo, respondido por Lina (28 oct 2026) |
-| `03-cambios-sitio-lifestyle.md` | Cambios pedidos al sitio Lifestyle in Cabo |
-| `04-estado-y-pendientes.md` | Check-in del PM con responsables |
-| `05-referencia-robb-report.md` | Análisis del Instagram de Robb Report como referencia editorial |
-| `fuentes/` | Archivos originales (.docx y .xlsx) |
+| `02-brief-discovery.md` | Brand Strategy Discovery Brief completo, respondido por Lina González (28 oct 2026). **Fuente de verdad** |
+| `03-cambios-sitio-lifestyle.md` | Cambios que pidió el cliente para lifestyleincabo.com |
+| `04-estado-y-pendientes.md` | Check-in del PM, con las frases textuales |
+| `05-referencia-robb-report.md` | Referencia editorial (lo observado y lo interpretado, separados) |
+| `06-estrategia-presentacion.md` | Qué dice la presentación de estrategia y qué hay que resolver. Solo lectura |
+| `07-perfiles-sociales-estado-actual.md` | Cómo están hoy Facebook, Instagram y Linktree |
+| `08-ajustes-propuestos-redes.md` | Antes, ajuste y por qué, en inglés y verificado con el Brief |
+| `09-decisiones-y-pendientes.md` | Decisiones vigentes, pendientes y el borrador de mensaje al cliente |
+| `fuentes/` | Archivos originales (.docx, .xlsx) y la imagen de las gorras del Brief |
 
 ## Reglas de trabajo
-- El target no está definido: no asumir nada en contenido ni en pauta hasta cerrar el Brand Strategy.
-- No prometer Cost per Lead; la línea base se define en los primeros 60 a 90 días.
-- Del Mar Real Estate exige que su nombre y logo aparezcan de forma prominente y que la marca personal quede subordinada. Las guías formales están por llegar.
-- Sin afirmaciones ni estadísticas sin sustento, sin escasez artificial ni urgencia.
-- Evitar clichés: "front-row seat", "the journey behind the numbers", "the evolution of the market".
-- Michael y Olivia se presentan siempre como equipo.
+1. **No dar nada por sentado.** Todo sale de los documentos, links, capturas y mensajes compartidos. Cada dato dice de dónde viene (documento, sección, fecha) y se cita textual. Lo que es inferencia se marca como tal; lo que no está en las fuentes se pregunta.
+2. **Idioma.** Las citas van en su idioma original (las del Brief en inglés, las de mensajes y la presentación en español). Las explicaciones van siempre en español.
+3. **Cuentas en inglés.** Toda la información de las cuentas sociales va en inglés. Las propuestas de ajuste se escriben en inglés y se confirman contra el Brief.
+4. **El Brief manda en cifras y títulos** (años, total cerrado, Los Cabos, "No. 1" con su fuente MLS BCS). Antes de proponer un dato, se busca su frase en el Brief.
+5. **No editar sin que se pida.** Cuando llega información nueva, se responde y se dice qué habría que cambiar; los documentos se editan solo si se pide. La presentación de estrategia no se edita nunca desde acá.
+6. **El target no está definido** hasta cerrar el Brand Strategy: no asumir nada en contenido ni en pauta. No prometer cifra de Cost per Lead (línea base a 60–90 días).
+7. **Del Mar Real Estate.** Su nombre y logo deben mostrarse; la marca personal queda subordinada. Reglas formales pendientes.
+8. **Estilo del cliente** [Brief 06 Q5]: evitar lenguaje de venta agresivo, urgencia, clichés ("front-row seat", "the journey behind the numbers", "the evolution of the market"), superlativos genéricos y estadísticas sin sustento.
+9. **Michael y Olivia se presentan siempre como equipo** [Brief 06 Q5].
+10. **Claude no edita las cuentas.** Solo prepara los textos; Daniela los aplica.
