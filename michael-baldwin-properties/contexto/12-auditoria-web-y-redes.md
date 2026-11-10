@@ -33,7 +33,11 @@
   - 1.356 visualizaciones (151 por publicación), 39 interacciones (28 reacciones, 1 comentario, 10 compartidos) y 32 clics.
   - Lo mejor: reel de Villa 452 (353 visualizaciones, 12 interacciones, 8 clics), Entrada 63 (306) y "The season is here" (201). Lo más flojo: 3 reels con 39 a 96 visualizaciones, dos con el título automático "Tu reel".
   - Las publicaciones de propiedades traen precio y metros, pero terminan en "Contact us" o "get in touch" sin teléfono, correo ni enlace.
-- Faltan: un periodo de 90 días o 12 meses de Instagram y Facebook, y el desglose por formato (reels, publicaciones e historias).
+  - **Facebook Insights (13 oct–9 nov 2026, capturas de Meta):** 1.135 visualizaciones (+476,1%), 587 espectadores, 59,6% de no seguidores; 51 interacciones (+50%); 202 reproducciones de 3 segundos. 0 seguidores nuevos y 2 bajas (neto −2), 0 clics en el enlace, 0 conversaciones, 0 contactos nuevos y 0 pedidos; 41 visitas a la página.
+  - **Comparación de Meta (categoría "Servicios profesionales"):** publica más que otras páginas similares (27 piezas, por encima del percentil 75), con seguidores (867 contra 432 típico) e interacción (51 contra 39) similares, y crece menos (0 contra 4).
+  - **Público de la página (867 seguidores):** México 51,4%, EE.UU. 40,7%, Canadá 1,4%. Cabo San Lucas 17,4%, San José del Cabo 12,2%, Houston 11%, La Paz 3,6%, Dallas 1,2%, Austin 0,9%, Los Ángeles 0,7%. 51,8% mujeres y 48,2% hombres; el grupo más grande es 45–54, seguido de 35–44 y 55–64. **Lectura mía:** el público de Facebook se parece más al comprador que el de Instagram (más EE.UU., con Houston, y de mayor edad; el Brief dice "aged roughly 45–68" [04 Q1]).
+  - **Aviso:** las tarjetas de "Contenido destacado" de Facebook muestran para los contenidos cruzados las mismas cifras que Instagram (Villa 452: 1,2 mil y 54), así que parecen combinadas; para Facebook se usan los totales de la página y el CSV.
+- Faltan: un periodo de 90 días o 12 meses de Instagram y Facebook, el desglose por formato (reels, publicaciones e historias) en Instagram, y YouTube Analytics.
 
 ## Pendiente
 - PDF de la auditoría completa con la identidad visual de la presentación de estrategia (Daniela, después de tener los datos de Facebook e Instagram).
