@@ -1,6 +1,6 @@
 # Brand Strategy Discovery Brief (respuestas del cliente)
 
-Fuente: `fuentes/MBP_Discovery_Brief_Responses_Oct_29_2026_V3.docx`. Preparado por Lina González (MBP) para The Brandgger, 28 oct 2026. Confidencial. Texto extraído tal cual; las imágenes del docx (organigrama de marcas, referencia de swag de Stephanie) no están incluidas.
+Fuente: `fuentes/MBP_Discovery_Brief_Responses_Oct_29_2026_V3.docx`. Preparado por Lina González (MBP) para The Brandgger, 28 oct 2026. Confidencial. Texto extraído tal cual; la única imagen del docx es la propuesta de gorras "MBP — A NEW DIRECTION" (5 opciones: Quiet Luxury, Architectural Monogram, Coastal Tonal, Club Classic, Signature Placement), guardada en `fuentes/swag_MBP_a_new_direction.png`; el texto la introduce con "For reference, Stephanie, Michael’s wife, suggested this for the swag:". El texto "Our current structure is below:" (02 Q1) no trae el esquema dentro del archivo.
 
 Classification:  Confidential. Shared with The Brandgger for the purposes of this engagement only.
 

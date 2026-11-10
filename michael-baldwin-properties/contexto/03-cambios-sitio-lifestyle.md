@@ -1,6 +1,6 @@
 # Cambios sugeridos por el cliente: sitio Lifestyle in Cabo (octubre 2026)
 
-Fuente: `fuentes/Lifestyle_Website_Suggested_changes.xlsx`. El Excel incluye capturas de referencia.
+Fuente: `fuentes/Lifestyle_Website_Suggested_changes.xlsx`, hoja "Sheet1", título "LIFESTYLE IN CABO WEBSITE UPDATES Octber 2026". El Excel trae además tres imágenes sin texto: dos fotogramas de videos de listings de Del Mar RE ("CASITA 34" e "HACIENDA 501", con banner de camas, baños y pies cuadrados) y un tercer archivo .emf que no pude abrir. El Excel no dice a qué punto corresponde cada imagen; **[Inferencia]** que ilustran el banner de información del punto 4, por confirmar.
 
 | # | Sección | Pedido | Referencia |
 |---|---------|--------|------------|
@@ -13,4 +13,4 @@ Fuente: `fuentes/Lifestyle_Website_Suggested_changes.xlsx`. El Excel incluye cap
 | 7 | Dining: fotos e info | Reducir tamaño de fotos para mostrar más restaurantes; agregar tipo de cocina y horarios | /lifestyle/dining/ |
 | 8 | Dining: texto | Texto introductorio entre el video y el mapa, o entre el mapa y los primeros restaurantes | |
 
-Pregunta pendiente según el PM: ¿se respondió a Lina sobre estos cambios? (la pregunta la hizo el jueves).
+Pendiente según el PM: "Lina preguntó el jueves si tenemos comentarios sobre los cambios que ellos sugirieron a la página. Se le respondió?."
