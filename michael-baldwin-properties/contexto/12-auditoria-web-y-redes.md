@@ -26,7 +26,14 @@
   - 37,4% de las visualizaciones vienen de no seguidores. Interacciones: 508 (+51,6%), 77% de seguidores.
   - Seguidores nuevos: 38; dejaron de seguir: 24 (neto +14). Conversaciones, contactos nuevos y pedidos: 0. Anuncios: 0.
   - Lo más visto y más interactuado: dos publicaciones compartidas con la cuenta de Stephanie ("A perfect Cabo day aboard Darlin", 22 oct: 1,9 mil vistas y 100 me gusta; "Fort Lauderdale Boat Show", 5 nov: 1,5 mil y 103). Las propiedades rinden menos: Villa 452 (1,2 mil y 54), Entrada 63 (1,2 mil y 30), Casa Amore (960 y 27).
-- Faltan de Instagram: la pestaña Público (país, ciudad, edad), visitas al perfil y clics en el link, y un periodo de 90 días o 12 meses. De Facebook, las métricas de la página "Michael Baldwin Properties".
+  - **Visitas y clics (28 días):** 227 visitas al perfil (+92,4%) y 10 clics en el enlace (+100%), el 4,4% de las visitas; 8 de los 10 clics fueron en un solo día (alrededor del 24 oct).
+  - **Público (seguidores totales, 2.989, al 9 nov 2026):** México 66,1%, EE.UU. 24,8%, Canadá 1,9%. Cabo San Lucas 11,9%, San José del Cabo 10,4%, Houston 5,1%, Ciudad de México 4%, La Paz 2,1%, Dallas 1,2%. 60,5% hombres y 39,5% mujeres; edades principales: 25 a 54. Dos de cada tres seguidores están en México.
+- **Facebook, página "Michael Baldwin Properties" (867 seguidores), exportación del 12 ago al 9 nov 2026** (`fuentes/facebook_michael-baldwin-properties_contenido_2026-08-12_a_2026-11-09.csv`):
+  - 9 publicaciones en 89 días: 6 videos (todos cruzados desde Instagram) y 3 fotos. Desde el contrato (20 oct): 4.
+  - 1.356 visualizaciones (151 por publicación), 39 interacciones (28 reacciones, 1 comentario, 10 compartidos) y 32 clics.
+  - Lo mejor: reel de Villa 452 (353 visualizaciones, 12 interacciones, 8 clics), Entrada 63 (306) y "The season is here" (201). Lo más flojo: 3 reels con 39 a 96 visualizaciones, dos con el título automático "Tu reel".
+  - Las publicaciones de propiedades traen precio y metros, pero terminan en "Contact us" o "get in touch" sin teléfono, correo ni enlace.
+- Faltan: un periodo de 90 días o 12 meses de Instagram y Facebook, y el desglose por formato (reels, publicaciones e historias).
 
 ## Pendiente
 - PDF de la auditoría completa con la identidad visual de la presentación de estrategia (Daniela, después de tener los datos de Facebook e Instagram).
