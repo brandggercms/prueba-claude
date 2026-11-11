@@ -69,3 +69,22 @@ Formación: Purdue University (1976 – 1980).
 - Hubo 3 publicaciones en diciembre de 2025, un hueco de casi 5 meses (23 dic a 15 may) y 3 publicaciones entre mayo y octubre.
 - [Inferencia] El contenido del repost del 23 dic no está en la exportación; solo se ve el enlace con "repost-animavillage-cabolife". Por confirmar qué decía.
 - El texto de las publicaciones no está en el archivo; falta para comparar tono con el Brief.
+
+## Publicación del 21 oct 2026 (leída desde el enlace público)
+**Enlace:** linkedin.com/feed/update/urn:li:activity:7518747982398128129/ · **Título:** "Club Ninety Six & Club Espiritu: One Campus | Michael Baldwin" · **Publicada:** 21 oct 2026 (19:00 UTC).
+**Coincide con** la fila del 21 oct de la exportación (artículo, 486 impresiones, 14 reacciones, 0 comentarios). [Inferencia] La coincidencia es por fecha y cifras; el código del enlace difiere del de la exportación.
+
+**Texto (citas):**
+- *"The communities that hold their value are the ones that keep investing in themselves."*
+- *"Club Ninety Six and Club Espiritu, under one ownership since January 2026, have engaged Hart Howerton to master-plan a single, connected campus…"* → Los dos clubes, bajo un mismo dueño desde enero de 2026, contrataron a Hart Howerton para planificar un campus único.
+- Lista de mejoras de unos US$10 millones: spa ampliado con piscinas fría y caliente, dos canchas de pickleball y pabellón con simuladores de golf, "Kid's Village", sala de cartas con vista al mar. Obra desde el verano de 2027; término previsto en la primavera de 2029.
+- *"After sixteen years advising clients inside the gates of Palmilla, I have learned that buyers at this level rarely remember square footage."*
+- ***"Demand reflects it. Only 19 new oceanside homes remain in the final release of new development."***
+- Cierre: presenta a Michael Baldwin Properties, dice que ya compartió el tema con los lectores del newsletter de Lifestyle in Cabo y enlaza al artículo del blog. *"I'd value your perspective."*
+- Etiquetas: #Palmilla #LosCabosRealEstate #LuxuryRealEstate #VillasDelMar #LifestyleInCabo.
+
+**Contra el Brief**
+- *"Only 19 new oceanside homes remain"* no coincide con el Brief: *"only 9 homes and 1 lot were available for sale across Villas del Mar, Espíritu and Palmilla Cove"* [03 Q4]. Es la misma frase que aparece en el artículo del sitio del 15 oct (ver 12 y auditoría web).
+- El Brief pide: *"No unverified claims, unsupported market statistics or artificial scarcity."* Una cifra de escasez sin respaldo cae en esa regla. [Inferencia] El "19" puede venir de los "19 listings" del portafolio del Brief, que son otra cosa.
+- "Sixteen years" es coherente con el Brief (*"has worked in Palmilla continuously since 2010"*).
+- Hace de puente entre LinkedIn, el newsletter y el blog de Lifestyle in Cabo: el único enlace de LinkedIn al sitio con visitas medidas (2 visitas a enlaces).
