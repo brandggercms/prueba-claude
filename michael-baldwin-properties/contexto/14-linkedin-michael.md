@@ -38,3 +38,34 @@ Formación: Purdue University (1976 – 1980).
 - Las cifras de 1.750 y 2.000 millones no son reconciliables con lo que hay aquí. Se usa la del Brief (2 mil millones) y se pregunta al cliente cuál es vigente en LinkedIn.
 - Este perfil es de Michael como persona; el Brief no habla de LinkedIn de forma específica en lo que cargamos (por verificar si hay página de empresa).
 - No se modifica nada en LinkedIn; solo se registra. Cualquier ajuste lo aplica quien tenga el acceso.
+
+## Estadísticas de LinkedIn (captura del 11 nov 2026 y exportación de publicaciones)
+**Fuentes:** captura de "Overview" de las analíticas del perfil (Daniela, 11 nov 2026) y `fuentes/linkedin_post-performance_2025-11-12_a_2026-11-11.xlsx` (12 nov 2025 a 11 nov 2026).
+
+**Resumen del perfil (captura)**
+- 1.887 seguidores (menos de +1% frente a los 7 días anteriores).
+- 49 impresiones de publicaciones en 7 días (−31%).
+- 60 personas vieron el perfil en 90 días (la captura indica +50% "vs. prior 7 days").
+- 14 apariciones en búsquedas, del 3 al 9 nov (0% frente al 27 oct–2 nov).
+- Progreso semanal 5–11 nov: *"No posts yet"* (sin publicaciones esa semana).
+- La tarjeta del perfil muestra como empresa "Lifestyle in Cabo by Michael Baldwin" y repite "award-winning" en el titular.
+
+**Publicaciones en 12 meses: 6**
+| Fecha | Tipo | Impresiones | Fuera de la red | Reacciones | Comentarios | Reposts | Seguidores nuevos |
+|---|---|---|---|---|---|---|---|
+| 8 dic 2025 | Texto | 1.601 | 76% | 21 | 0 | 1 | 2 |
+| 15 dic 2025 | Texto | 763 | 49% | 15 | 2 | 1 | 0 |
+| 23 dic 2025 | Texto (repost, "animavillage") | 13.161 | 96% | 24 | 0 | 1 | 6 |
+| 15 may 2026 | Imagen | 598 | 18% | 24 | 6 | 0 | 0 |
+| 7 jul 2026 | Artículo | 641 | 51% | 13 | 3 | 3 | 0 |
+| 21 oct 2026 | Artículo | 486 | 47% | 14 | 0 | 0 | 0 |
+
+**Totales:** 17.250 impresiones, 111 reacciones, 11 comentarios, 6 reposts, 8 seguidores nuevos, 56 visitas al perfil, 2 visitas a enlaces (ambas en un artículo del 21 oct).
+
+**Lo que se ve**
+- Una sola publicación, el repost del 23 dic 2025, concentra el 76% de las impresiones (13.161 de 17.250) y 6 de los 8 seguidores nuevos. El 96% de su alcance fue fuera de su red. Sin ella, las otras 5 suman 4.089 impresiones (818 de promedio).
+- La imagen del 15 may tiene más reacciones (24) y comentarios (6) por impresión que los artículos; el 82% de su alcance fue dentro de su red.
+- Los dos artículos (con enlace al sitio) generaron 2 visitas a enlaces en total.
+- Hubo 3 publicaciones en diciembre de 2025, un hueco de casi 5 meses (23 dic a 15 may) y 3 publicaciones entre mayo y octubre.
+- [Inferencia] El contenido del repost del 23 dic no está en la exportación; solo se ve el enlace con "repost-animavillage-cabolife". Por confirmar qué decía.
+- El texto de las publicaciones no está en el archivo; falta para comparar tono con el Brief.
