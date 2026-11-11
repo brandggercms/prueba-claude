@@ -18,6 +18,7 @@ Material base del cliente y del trabajo. Léelo antes de producir contenido, pie
 | `11-youtube-michael-voz-y-contenido.md` | Canales y videos de Michael, su forma de hablar y diferencias con el Brief |
 | `12-auditoria-web-y-redes.md` | Resumen de la auditoría de lifestyleincabo.com, YouTube e Instagram (con rendimiento de contenido) |
 | `13-reportes-historicos-lifestyle-in-cabo.md` | Datos de los reportes 2024, 2025 y 2026 de Lifestyle in Cabo (Instagram, Facebook y sitio) |
+| `14-linkedin-michael.md` | Perfil de LinkedIn de Michael (PDF de Daniela) y diferencias con el Brief |
 | `fuentes/` | Archivos originales (.docx, .xlsx), la imagen de las gorras del Brief y `youtube-transcripciones.md` |
 
 ## Reglas de trabajo

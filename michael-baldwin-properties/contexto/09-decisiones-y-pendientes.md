@@ -75,7 +75,7 @@ Gracias, con esto avanzamos con los cambios.
 ```
 Se quitaron de este borrador los puntos de premios (resuelto) e idioma (resuelto: inglés).
 
-## LinkedIn de Michael (pendiente de contenido)
+## LinkedIn de Michael (resuelto: ver 14-linkedin-michael.md)
 - Enlace dado por Daniela: https://www.linkedin.com/in/michael-baldwin-4396a98/
 - No se pudo leer (10-11 nov 2026): LinkedIn redirige a mx.linkedin.com y responde HTTP 999, que bloquea a los clientes automáticos. No se registró ningún dato del perfil.
 - Para cargarlo: Daniela pega el texto del perfil o lo exporta a PDF (en LinkedIn: Más > Guardar como PDF) y se suma al second brain.
