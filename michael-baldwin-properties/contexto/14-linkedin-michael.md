@@ -88,3 +88,24 @@ Formación: Purdue University (1976 – 1980).
 - El Brief pide: *"No unverified claims, unsupported market statistics or artificial scarcity."* Una cifra de escasez sin respaldo cae en esa regla. [Inferencia] El "19" puede venir de los "19 listings" del portafolio del Brief, que son otra cosa.
 - "Sixteen years" es coherente con el Brief (*"has worked in Palmilla continuously since 2010"*).
 - Hace de puente entre LinkedIn, el newsletter y el blog de Lifestyle in Cabo: el único enlace de LinkedIn al sitio con visitas medidas (2 visitas a enlaces).
+
+## Las otras publicaciones (leídas desde los enlaces públicos, 11 nov 2026)
+Todas con enlace al blog de Lifestyle in Cabo. Las cifras salen del Excel; las 3 últimas filas **no están en el Excel** (ver nota).
+
+| Fecha | Título del artículo | De qué trata (cita clave) | Impresiones |
+|---|---|---|---|
+| 7 jul 2026 | "Amanvari's Arrival in Los Cabos: Luxury Real Estate Market Shift" | *"Luxury hospitality doesn't follow markets. It chooses them."* La llegada de Aman como señal de madurez del mercado. | 641 |
+| 23 dic 2025 | "The 'Monaco Effect': How Ánima Village is Redefining the Los Cabos Value Proposition" | *"A new era for our community."* Apertura de Ánima Village; guía en el blog. Lleva #Repost. | 13.161 |
+| 15 dic 2025 | "The 45-Year Advantage: How to De-Risk Your Luxury Real Estate Investment in Los Cabos" | *"the biggest risk in Los Cabos real estate isn't the price, it's the segment"* | 763 |
+| 8 dic 2025 | "Builder Level De-Risking: Securing the Scarce Legacy of Legado Lots, Villas Del Mar" | Diferencia entre la revisión de un broker y la de un desarrollador. | 1.601 |
+| 1 dic 2025 | "Lifestyle Is the New Luxury Currency" (publicada como *Lifestyle in Cabo by Michael Baldwin*) | *"What is the TRUE ROI of your next home?"* Familias que se mudan por educación y bienestar. | sin dato |
+| 28 nov 2025 | "Debunking the 'Wait For The Dip' Strategy" | *"THE MOST EXPENSIVE MISTAKE: Waiting for the Dip in Los Cabos."* | sin dato |
+| 26 nov 2025 | "The Del Mar Investment Thesis: Beyond the Brand" | *"the 30-year legacy and the powerful network that supports it."* | sin dato |
+
+**Nota sobre el Excel:** la exportación cubre del 12 nov 2025 al 11 nov 2026 pero solo trae 6 filas. Faltan las publicaciones del 26 nov, 28 nov y 1 dic 2025; por eso no hay cifras. [Inferencia] La del 1 dic salió desde la página "Lifestyle in Cabo by Michael Baldwin" y no desde el perfil personal; las del 26 y 28 nov son del perfil y no se sabe por qué no aparecen. Por confirmar.
+
+**Lo que se ve**
+- La publicación más vista (23 dic, 13.161 impresiones, 96% fuera de su red) es la de Ánima Village: un tema de comunidad y lifestyle, no una opinión de mercado. Con una sola publicación no se puede decir por qué circuló.
+- Cambia el tono. Las de nov–dic 2025 usan mayúsculas, emojis, puntos de separación (".") y frases de urgencia o escasez (*"THE MOST EXPENSIVE MISTAKE"*, *"Scarce Legacy"*, *"betting against a history of appreciation driven by scarcity"*). Las de jul y oct 2026 son más editoriales y cierran con *"I'd love to hear your thoughts"* / *"I'd value your perspective."*
+- Contra el Brief: pide evitar el lenguaje de venta agresivo, la urgencia y la escasez artificial, y *"No unverified claims"* [06 Q5]. Frases sin respaldo en el Brief: *"45 years"* (el Brief dice *"40+ years (since 1983)"*), *"30-year legacy"* de Del Mar (el Brief: Michael fue miembro fundador en 2014) y *"fifteen years"* / *"sixteen years"* (el Brief: en Palmilla desde 2010).
+- Michael escribe en primera persona; la voz de las de 2026 se parece más a lo que pide el Brief. [Inferencia] sobre solo 7 publicaciones.
