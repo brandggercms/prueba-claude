@@ -20,6 +20,7 @@ Material base del cliente y del trabajo. Léelo antes de producir contenido, pie
 | `13-reportes-historicos-lifestyle-in-cabo.md` | Datos de los reportes 2024, 2025 y 2026 de Lifestyle in Cabo (Instagram, Facebook y sitio) |
 | `14-linkedin-michael.md` | Perfil de LinkedIn de Michael (PDF de Daniela) y diferencias con el Brief |
 | `15-biografias-propuestas-brandgger.md` | Biografías propuestas por Brandgger (web, directorios, Instagram) y su análisis contra el Brief |
+| `16-fichas-tecnicas-propiedades.md` | Fichas técnicas de Casa Amore, Cove 7, Villa 452 (más Terraza 362 y Entrada 63) y datos por confirmar |
 | `fuentes/` | Archivos originales (.docx, .xlsx), la imagen de las gorras del Brief y `youtube-transcripciones.md` |
 
 ## Reglas de trabajo
