@@ -23,3 +23,17 @@
 - **Casa Amore:** US$13,900,000 en el sitio y en la descripción de la publicación; en el video dice *"This house is 15.9 million"*. La página no menciona "Casita 11"; ese nombre viene del mensaje de Daniela.
 - **Redacción de las páginas:** repiten "more than three decades" de experiencia, y el Brief dice 40+ años.
 - Datos no disponibles: MLS number, año de construcción, tamaño del lote, estacionamientos, gastos de mantenimiento (HOA). El sitio no los muestra. La sugerencia de cambios de Lina pide un banner con "MLS Number, Bedrooms, Baths, AC Sq. Ft., Highlights" [03].
+
+## Atracciones cercanas y tiempos (investigación del 13 nov 2026, fuentes públicas; NO validado por el cliente)
+**Aviso:** los tiempos son aproximados y se miden desde One&Only Palmilla o Palmilla Beach, no desde Casa Amore, Cove 7 ni Villa 452. Vienen de sitios de turismo y hoteles; hay que confirmarlos con una app de mapas por propiedad antes de publicarlos.
+
+| Atracción | Distancia / tiempo aproximado | Nota |
+|---|---|---|
+| Palmilla Beach | En el km 27–27,5 del corredor; bahía protegida y apta para nadar, con certificación Blue Flag | Cove 7: *"just steps from the swimmable Palmilla Beach"* (sitio) |
+| One&Only Palmilla | Dentro de la zona | El Brief la nombra entre los actores de la zona |
+| Palmilla Golf Club (27 hoyos, Jack Nicklaus) | "Enfrente" del resort o a unos 5 min, según la fuente | El Brief: club limitado a 250 miembros propietarios |
+| Aeropuerto de Los Cabos (SJD) | 20 a 25 min sin tráfico (las fuentes van de 15,5 a 17 millas y de 20 a 40 min) | |
+| San José del Cabo (centro y Art District) | 5 a 10 min al pueblo; 15 a 20 min al Art District | Estimaciones de un blog de renta de villas |
+| Cabo San Lucas | 25 a 30 min | |
+| Puerto Los Cabos (marina y golf) | Sin dato desde Palmilla. Viceroy Los Cabos: marina a 8 min, golf a 14 min | [Inferencia] rango parecido |
+| El Arco | Sin dato encontrado | |
