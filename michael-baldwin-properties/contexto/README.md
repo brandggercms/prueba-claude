@@ -21,6 +21,7 @@ Material base del cliente y del trabajo. Léelo antes de producir contenido, pie
 | `14-linkedin-michael.md` | Perfil de LinkedIn de Michael (PDF de Daniela) y diferencias con el Brief |
 | `15-biografias-propuestas-brandgger.md` | Biografías propuestas por Brandgger (web, directorios, Instagram) y su análisis contra el Brief |
 | `16-fichas-tecnicas-propiedades.md` | Fichas técnicas de Casa Amore, Cove 7, Villa 452 (más Terraza 362 y Entrada 63) y datos por confirmar |
+| `17-texto-slide-social-media.md` | Texto propuesto para la slide de Social Media y observaciones de la presentación |
 | `fuentes/` | Archivos originales (.docx, .xlsx), la imagen de las gorras del Brief y `youtube-transcripciones.md` |
 
 ## Reglas de trabajo
