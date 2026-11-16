@@ -1,16 +1,24 @@
 # Texto propuesto para la slide "Social Media" (slide 4 de la presentación de estrategia)
 
 **Estado:** borrador redactado el 16 nov 2026 para que el equipo lo pegue. La presentación es trabajo del equipo y no se edita desde aquí.
-**Título sugerido:** "Redes sociales: hay audiencia, pero pocas consultas"
+**Título sugerido:** "Redes sociales: buen contenido y pocas consultas"
 
-**Texto (en la caja de texto de la slide, 792 × 96 pt aprox.; la caja actual repite la frase de la slide 3 oculta):**
+**Lo que funciona**
+- Contenido con personas: las publicaciones compartidas con otra cuenta promedian 103 me gusta, frente a 21 de las propias (Instagram).
+- La historia personal de Michael en YouTube: los videos sobre mudarse y vivir en Cabo (hasta 23 mil vistas) superan a los tours de propiedades (mediana de 1.000 contra 523).
+- Alcance en crecimiento: 12,4 mil visualizaciones en 28 días en Instagram (+79%), con el 53% del alcance fuera de los seguidores.
 
-**Instagram** (2.989 seguidores): 12,4 mil visualizaciones en 28 días (+79%); el 53% del alcance viene de quienes no siguen la cuenta. Las publicaciones compartidas con otra cuenta reciben 103 me gusta de promedio, frente a 21 de las propias, pero hay solo 8 publicaciones en 81 días y 10 clics al enlace.
-**Facebook:** público de más edad (45 a 54 años). Rinde mejor el reel de Villa 452 (353 visualizaciones); las publicaciones de propiedades cierran con "Contact us", sin teléfono, correo ni enlace.
-**YouTube** concentra la audiencia (7,47 mil suscriptores, 165 videos) y lo más visto es la historia personal de Michael. Un segundo canal casi no tiene contenido (2 videos).
-**LinkedIn** (1.887 seguidores): 6 publicaciones en 12 meses; un solo repost explica el 76% de las impresiones.
-**Linktree y perfiles:** ninguno lleva al sitio de MBP, y las cifras de Michael cambian de un perfil a otro ("45yr", "$1.8 billion", "award-winning").
-Funciona: contenido con Michael y colaboraciones. A mejorar: frecuencia, un solo mensaje y un camino claro hacia el contacto.
+**Lo que no funciona**
+- Perfiles sin un mismo mensaje: cifras distintas ("$1.8 billion", "45yr", "$2B+"), nombre diferente por red y enlaces que no llevan al sitio de MBP.
+- Publicaciones sin camino al contacto: terminan en "Contact us" sin teléfono ni enlace; en 28 días, 10 clics al enlace y 0 contactos.
+- Poca frecuencia y títulos automáticos ("Tu reel"): 8 publicaciones en 81 días en Instagram y 6 en 12 meses en LinkedIn.
+- Textos de propiedades con lenguaje de lujo genérico ("An address reserved for the extraordinary") y, en LinkedIn 2025, con urgencia y escasez ("THE MOST EXPENSIVE MISTAKE", "Scarce Legacy").
+
+**Qué ajustar primero**
+1. Biografías y perfiles: nombre, cifras y enlace unificados, con Del Mar Real Estate.
+2. Estilo de las publicaciones: título y texto propios por red, contacto claro y ritmo constante.
+3. Contenido: más Michael y el equipo, historias y datos de mercado; las propiedades contadas con personas.
+4. Voz de Michael: llevar el tono educativo y cercano de sus videos a los textos, sin urgencia ni superlativos (Brief [06 Q5]).
 
 **Fuentes:** `12`, `13`, `14`, `07` y `08` de este directorio (Insights de Instagram 13 oct–9 nov, CSV de Facebook 12 ago–9 nov, canal de YouTube al 10 nov, analíticas de LinkedIn al 11 nov).
 
