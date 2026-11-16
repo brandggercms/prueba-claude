@@ -20,5 +20,5 @@ Funciona: contenido con Michael y colaboraciones. A mejorar: frecuencia, un solo
 - Slide 6: "todas las páginas tienen 2 o más H1": en el navegador, las 32 páginas de la muestra lo tienen (el buscador del encabezado cuenta como un segundo H1); en la lectura estática del sitio completo son 76 de 141. Conviene decir "las páginas revisadas con navegador".
 - Slide 6: "131 de 137 páginas" y "77%" difieren de mi revisión final (135 de 141 sin descripción; 75% de imágenes sin texto alternativo).
 - Slide 8: "No. 1 en ventas en Palmilla"; el Brief dice "No. 1 in sales volume in Baja California Sur" para Michael (y No. 1 en Palmilla es de Del Mar Real Estate).
-- Slide 9: el título "El 90% de los compradores viene de California y Texas" sigue presentado como dato; es una hipótesis.
+- Slide 9: el título "El 90% de los compradores viene de California y Texas". Aclaración de Daniela (16 nov): es hacia donde apunta la estrategia, no un dato medido. Queda como objetivo del equipo; el Brief respalda Texas primero (~55% de la base de CRM, Houston y Dallas) y California segundo [04 Q2].
 - Slide 12: "siempre con Michael o Stephanie"; el Brief pide a Michael y Olivia como equipo.
