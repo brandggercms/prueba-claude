@@ -3,22 +3,17 @@
 **Estado:** borrador redactado el 16 nov 2026 para que el equipo lo pegue. La presentación es trabajo del equipo y no se edita desde aquí.
 **Título sugerido:** "Redes sociales: buen contenido y pocas consultas"
 
-**Lo que funciona**
-- Contenido con personas: las publicaciones compartidas con otra cuenta promedian 103 me gusta, frente a 21 de las propias (Instagram).
-- La historia personal de Michael en YouTube: los videos sobre mudarse y vivir en Cabo (hasta 23 mil vistas) superan a los tours de propiedades (mediana de 1.000 contra 523).
-- Alcance en crecimiento: 12,4 mil visualizaciones en 28 días en Instagram (+79%), con el 53% del alcance fuera de los seguidores.
+**Instagram (2.989 seguidores).** 12,4 mil visualizaciones en 28 días (+79%), pero solo 10 clics al enlace y 0 contactos. Las 8 publicaciones propias en 81 días promedian 21 me gusta; las compartidas con otra cuenta, 103. Error: la biografía mezcla datos ("#1 Agent in South Baja", "45yr Advantage") que no coinciden con las cifras vigentes, y el nombre del perfil difiere del de las otras redes. Ajustar: biografía, nombre y un contacto claro al cierre de cada publicación.
 
-**Lo que no funciona**
-- Perfiles sin un mismo mensaje: cifras distintas ("$1.8 billion", "45yr", "$2B+"), nombre diferente por red y enlaces que no llevan al sitio de MBP.
-- Publicaciones sin camino al contacto: terminan en "Contact us" sin teléfono ni enlace; en 28 días, 10 clics al enlace y 0 contactos.
-- Poca frecuencia y títulos automáticos ("Tu reel"): 8 publicaciones en 81 días en Instagram y 6 en 12 meses en LinkedIn.
-- Textos de propiedades con lenguaje de lujo genérico ("An address reserved for the extraordinary") y, en LinkedIn 2025, con urgencia y escasez ("THE MOST EXPENSIVE MISTAKE", "Scarce Legacy").
+**Facebook (867 seguidores).** 1.356 visualizaciones y 32 clics en 89 días; 0 contactos. Sus 6 videos son los mismos reels de Instagram, dos con el título automático "Tu reel". Error: la descripción conserva "$1.8 billion", "award-winning" y "top producing agent", y el único enlace lleva a lifestyleincabo.com. Ajustar: intro, descripción y datos de contacto, y completar los campos vacíos.
 
-**Qué ajustar primero**
-1. Biografías y perfiles: nombre, cifras y enlace unificados, con Del Mar Real Estate.
-2. Estilo de las publicaciones: título y texto propios por red, contacto claro y ritmo constante.
-3. Contenido: más Michael y el equipo, historias y datos de mercado; las propiedades contadas con personas.
-4. Voz de Michael: llevar el tono educativo y cercano de sus videos a los textos, sin urgencia ni superlativos (Brief [06 Q5]).
+**YouTube (7,47 mil suscriptores, 165 videos).** Concentra la mayor audiencia, y lo más visto es la historia personal de Michael. Error: un video de 16 segundos reúne el 83% de las vistas, existe un segundo canal casi vacío (2 videos) y las descripciones traen cifras y un correo desactualizados. Ajustar: un solo canal, con descripciones y listas ordenadas.
+
+**Linktree.** Error: las tarjetas llevan a lifestyleincabo.com y ninguna al sitio de MBP; la descripción repite "45-Year Advantage". Ajustar: que MBP sea el primer enlace.
+
+**LinkedIn (1.887 seguidores).** 6 publicaciones en 12 meses; un solo repost explica el 76% de las 17.250 impresiones. Error: el perfil dice "award-winning" y muestra dos cifras de ventas distintas; las publicaciones de 2025 usan urgencia y escasez. Ajustar: perfil, tono y frecuencia.
+
+**Cierre:** Alinearemos la estrategia en cuatro pilares: Propiedades, Mercado, Quién es Michael y Vivir en Los Cabos.
 
 **Fuentes:** `12`, `13`, `14`, `07` y `08` de este directorio (Insights de Instagram 13 oct–9 nov, CSV de Facebook 12 ago–9 nov, canal de YouTube al 10 nov, analíticas de LinkedIn al 11 nov).
 
